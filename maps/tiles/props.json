@@ -1,0 +1,1339 @@
+{
+ "image": "tiles/props.png",
+ "columns": 16,
+ "tilecount": 392,
+ "props": {
+  "f_plant": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 0
+  },
+  "f_plant_big": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 1
+  },
+  "f_bookshelf": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 3
+  },
+  "f_desk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 5
+  },
+  "f_chair": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 7
+  },
+  "f_sofa": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 8
+  },
+  "f_table": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 10
+  },
+  "f_lamp": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 11
+  },
+  "f_cabinet": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 13
+  },
+  "f_bin": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 14
+  },
+  "f_plush": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 15
+  },
+  "f_tv": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 16
+  },
+  "f_aquarium": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 17
+  },
+  "f_hanger": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 18
+  },
+  "f_rug_round": {
+   "kind": "rug",
+   "w": 2,
+   "h": 2,
+   "tile": 20
+  },
+  "f_rug_stripe": {
+   "kind": "rug",
+   "w": 3,
+   "h": 2,
+   "tile": 24
+  },
+  "f_cushion": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 30
+  },
+  "f_clock": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 31
+  },
+  "f_poster": {
+   "kind": "wall",
+   "w": 1,
+   "h": 2,
+   "tile": 32
+  },
+  "f_frame": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 34
+  },
+  "f_shelf": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 35
+  },
+  "f_curtain": {
+   "kind": "wall",
+   "w": 1,
+   "h": 2,
+   "tile": 36
+  },
+  "c_teaparty": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 38
+  },
+  "c_sisterhood": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 40
+  },
+  "c_remedial": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 42
+  },
+  "c_hospitaller": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 44
+  },
+  "c_justice": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 46
+  },
+  "c_bookclub": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 48
+  },
+  "c_vigilante": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 50
+  },
+  "c_sweets": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 52
+  },
+  "c_fuuki": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 54
+  },
+  "c_handyman": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 56
+  },
+  "c_gourmet": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 58
+  },
+  "c_pandemonium": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 60
+  },
+  "c_emergency": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 62
+  },
+  "c_lunch": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 64
+  },
+  "c_sparkle": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 66
+  },
+  "c_onsen": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 68
+  },
+  "c_seminar": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 70
+  },
+  "c_gamedev": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 72
+  },
+  "c_sptf": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 74
+  },
+  "c_veritas": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 76
+  },
+  "c_cnc": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 78
+  },
+  "c_engineer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 80
+  },
+  "c_training": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 82
+  },
+  "c_countermeasure": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 84
+  },
+  "c_ninjutsu": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 86
+  },
+  "c_onmyobu": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 88
+  },
+  "c_shugyo": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 90
+  },
+  "c_hyakka": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 92
+  },
+  "c_matsuri": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 94
+  },
+  "c_endan": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 96
+  },
+  "c_plum": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 98
+  },
+  "c_xuanlong": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 100
+  },
+  "c_xuanwu": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 102
+  },
+  "c_secretariat": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 104
+  },
+  "c_class227": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 106
+  },
+  "c_labor": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 108
+  },
+  "c_liberation": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 110
+  },
+  "c_security": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 112
+  },
+  "c_safety": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 114
+  },
+  "c_ariussquad": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 116
+  },
+  "c_rabbit": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 118
+  },
+  "c_ccc": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 120
+  },
+  "c_freight": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 122
+  },
+  "r_teaparty": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 124
+  },
+  "r_sisterhood": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 125
+  },
+  "r_remedial": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 126
+  },
+  "r_hospitaller": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 127
+  },
+  "r_justice": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 128
+  },
+  "r_bookclub": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 129
+  },
+  "r_vigilante": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 130
+  },
+  "r_sweets": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 131
+  },
+  "r_fuuki": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 132
+  },
+  "r_handyman": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 133
+  },
+  "r_gourmet": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 134
+  },
+  "r_pandemonium": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 135
+  },
+  "r_emergency": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 136
+  },
+  "r_lunch": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 137
+  },
+  "r_sparkle": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 138
+  },
+  "r_onsen": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 139
+  },
+  "r_seminar": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 140
+  },
+  "r_gamedev": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 141
+  },
+  "r_sptf": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 142
+  },
+  "r_veritas": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 143
+  },
+  "r_cnc": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 144
+  },
+  "r_engineer": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 145
+  },
+  "r_training": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 146
+  },
+  "r_countermeasure": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 147
+  },
+  "r_ninjutsu": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 148
+  },
+  "r_onmyobu": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 149
+  },
+  "r_shugyo": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 150
+  },
+  "r_hyakka": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 151
+  },
+  "r_matsuri": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 152
+  },
+  "r_endan": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 153
+  },
+  "r_plum": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 154
+  },
+  "r_xuanlong": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 155
+  },
+  "r_xuanwu": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 156
+  },
+  "r_secretariat": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 157
+  },
+  "r_class227": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 158
+  },
+  "r_labor": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 159
+  },
+  "r_liberation": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 160
+  },
+  "r_security": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 162
+  },
+  "r_safety": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 163
+  },
+  "r_ariussquad": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 164
+  },
+  "r_rabbit": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 165
+  },
+  "r_ccc": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 166
+  },
+  "r_freight": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 167
+  },
+  "v_abydos": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 168
+  },
+  "v_gehenna": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 172
+  },
+  "v_trinity": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 174
+  },
+  "v_millennium": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 178
+  },
+  "v_hyakkiyako": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 182
+  },
+  "v_shanhaijing": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 186
+  },
+  "v_redwinter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 188
+  },
+  "v_valkyrie": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 190
+  },
+  "v_srt": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 192
+  },
+  "v_arius": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 196
+  },
+  "s_abydos": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 198
+  },
+  "s_gehenna": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 199
+  },
+  "s_trinity": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 200
+  },
+  "s_millennium": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 201
+  },
+  "s_hyakkiyako": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 202
+  },
+  "s_shanhaijing": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 203
+  },
+  "s_redwinter": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 204
+  },
+  "s_valkyrie": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 205
+  },
+  "s_srt": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 206
+  },
+  "s_arius": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 207
+  },
+  "g_du_force": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 208
+  },
+  "g_du_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 210
+  },
+  "g_du_hand": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 214
+  },
+  "g_abydos_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 216
+  },
+  "g_abydos_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 218
+  },
+  "g_abydos_hand": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 220
+  },
+  "g_gehenna_force": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 222
+  },
+  "g_gehenna_talk": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 224
+  },
+  "g_gehenna_hand": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 226
+  },
+  "g_trinity_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 230
+  },
+  "g_trinity_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 232
+  },
+  "g_trinity_hand": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 234
+  },
+  "g_millennium_force": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 236
+  },
+  "g_millennium_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 237
+  },
+  "g_millennium_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 239
+  },
+  "g_hyakkiyako_force": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 241
+  },
+  "g_hyakkiyako_talk": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 243
+  },
+  "g_hyakkiyako_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 244
+  },
+  "g_shanhaijing_force": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 246
+  },
+  "g_shanhaijing_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 248
+  },
+  "g_shanhaijing_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 252
+  },
+  "g_redwinter_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 254
+  },
+  "g_redwinter_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 256
+  },
+  "g_redwinter_hand": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 258
+  },
+  "g_valkyrie_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 260
+  },
+  "g_valkyrie_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 262
+  },
+  "g_valkyrie_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 264
+  },
+  "g_srt_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 266
+  },
+  "g_srt_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 268
+  },
+  "g_srt_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 272
+  },
+  "g_arius_force": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 274
+  },
+  "g_arius_talk": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 276
+  },
+  "g_arius_hand": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 278
+  },
+  "e_du_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 280
+  },
+  "e_du_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 282
+  },
+  "e_du_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 284
+  },
+  "e_du_winter": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 286
+  },
+  "e_abydos_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 288
+  },
+  "e_abydos_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 290
+  },
+  "e_abydos_autumn": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 292
+  },
+  "e_abydos_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 294
+  },
+  "e_gehenna_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 296
+  },
+  "e_gehenna_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 298
+  },
+  "e_gehenna_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 300
+  },
+  "e_gehenna_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 302
+  },
+  "e_trinity_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 304
+  },
+  "e_trinity_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 306
+  },
+  "e_trinity_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 308
+  },
+  "e_trinity_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 310
+  },
+  "e_millennium_spring": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 314
+  },
+  "e_millennium_summer": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 316
+  },
+  "e_millennium_autumn": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 318
+  },
+  "e_millennium_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 320
+  },
+  "e_hyakkiyako_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 324
+  },
+  "e_hyakkiyako_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 328
+  },
+  "e_hyakkiyako_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 330
+  },
+  "e_hyakkiyako_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 332
+  },
+  "e_shanhaijing_spring": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 334
+  },
+  "e_shanhaijing_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 335
+  },
+  "e_shanhaijing_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 337
+  },
+  "e_shanhaijing_winter": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 339
+  },
+  "e_redwinter_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 341
+  },
+  "e_redwinter_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 343
+  },
+  "e_redwinter_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 347
+  },
+  "e_redwinter_winter": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 349
+  },
+  "e_valkyrie_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 351
+  },
+  "e_valkyrie_summer": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 353
+  },
+  "e_valkyrie_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 354
+  },
+  "e_valkyrie_winter": {
+   "kind": "floor",
+   "w": 1,
+   "h": 2,
+   "tile": 356
+  },
+  "e_srt_spring": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 358
+  },
+  "e_srt_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 360
+  },
+  "e_srt_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 362
+  },
+  "e_srt_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 2,
+   "tile": 364
+  },
+  "e_arius_spring": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 368
+  },
+  "e_arius_summer": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 369
+  },
+  "e_arius_autumn": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 371
+  },
+  "e_arius_winter": {
+   "kind": "floor",
+   "w": 2,
+   "h": 1,
+   "tile": 373
+  },
+  "q_boxes": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 375
+  },
+  "q_bag": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 376
+  },
+  "q_flyer": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 377
+  },
+  "q_laundry": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 378
+  },
+  "q_crumbs": {
+   "kind": "rug",
+   "w": 1,
+   "h": 1,
+   "tile": 379
+  },
+  "d_abydos_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 380
+  },
+  "d_abydos_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 381
+  },
+  "d_gehenna_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 382
+  },
+  "d_gehenna_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 383
+  },
+  "d_arius_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 384
+  },
+  "d_arius_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 385
+  },
+  "d_trinity_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 386
+  },
+  "d_trinity_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 387
+  },
+  "d_valkyrie_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 388
+  },
+  "d_valkyrie_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 389
+  },
+  "d_srt_wall": {
+   "kind": "wall",
+   "w": 1,
+   "h": 1,
+   "tile": 390
+  },
+  "d_srt_floor": {
+   "kind": "floor",
+   "w": 1,
+   "h": 1,
+   "tile": 391
+  }
+ }
+}

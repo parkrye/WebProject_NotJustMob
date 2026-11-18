@@ -1,0 +1,10 @@
+모브로 끝낼 수는 없어! Not Just Mob!
+Copyright (c) 2026 parkrye. All rights reserved.
+
+This is an unofficial fan work based on Blue Archive (블루 아카이브)
+by NEXON Games Co., Ltd. It is not affiliated with or endorsed by
+NEXON Games, NEXON or Yostar. It is distributed free of charge.
+
+Except for the third-party components listed in THIRD_PARTY_NOTICES.txt,
+you may not copy, modify, redistribute, or sell this software or its assets
+without prior written permission.

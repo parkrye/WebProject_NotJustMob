@@ -1,0 +1,2459 @@
+[
+ {
+  "id": "Airi",
+  "school": "Trinity",
+  "ko": "아이리",
+  "path": "Trinity/Airi",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Airi (Band)",
+  "school": "Trinity",
+  "ko": "아이리",
+  "path": "Trinity/Airi (Band)",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Azusa",
+  "school": "Trinity",
+  "ko": "아즈사",
+  "path": "Trinity/Azusa",
+  "foot": 1,
+  "h": 62,
+  "w": 47
+ },
+ {
+  "id": "Azusa (Swimsuit)",
+  "school": "Trinity",
+  "ko": "아즈사",
+  "path": "Trinity/Azusa (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 46
+ },
+ {
+  "id": "Hanae",
+  "school": "Trinity",
+  "ko": "하나에",
+  "path": "Trinity/Hanae",
+  "foot": 2,
+  "h": 60,
+  "w": 44
+ },
+ {
+  "id": "Hanae (Christmas)",
+  "school": "Trinity",
+  "ko": "하나에",
+  "path": "Trinity/Hanae (Christmas)",
+  "foot": 1,
+  "h": 60,
+  "w": 33
+ },
+ {
+  "id": "Hanako",
+  "school": "Trinity",
+  "ko": "하나코",
+  "path": "Trinity/Hanako",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Hanako (Swimsuit)",
+  "school": "Trinity",
+  "ko": "하나코",
+  "path": "Trinity/Hanako (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Hasumi",
+  "school": "Trinity",
+  "ko": "하스미",
+  "path": "Trinity/Hasumi",
+  "foot": 4,
+  "h": 54,
+  "w": 42
+ },
+ {
+  "id": "Hasumi (Sportswear)",
+  "school": "Trinity",
+  "ko": "하스미",
+  "path": "Trinity/Hasumi (Sportswear)",
+  "foot": 1,
+  "h": 58,
+  "w": 36
+ },
+ {
+  "id": "Hasumi (Swimsuit)",
+  "school": "Trinity",
+  "ko": "하스미",
+  "path": "Trinity/Hasumi (Swimsuit)",
+  "foot": 2,
+  "h": 59,
+  "w": 52
+ },
+ {
+  "id": "Hifumi",
+  "school": "Trinity",
+  "ko": "히후미",
+  "path": "Trinity/Hifumi",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Hifumi (Swimsuit)",
+  "school": "Trinity",
+  "ko": "히후미",
+  "path": "Trinity/Hifumi (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Hinata",
+  "school": "Trinity",
+  "ko": "히나타",
+  "path": "Trinity/Hinata",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Hinata (Swimsuit)",
+  "school": "Trinity",
+  "ko": "히나타",
+  "path": "Trinity/Hinata (Swimsuit)",
+  "foot": 2,
+  "h": 56,
+  "w": 36
+ },
+ {
+  "id": "Ichika",
+  "school": "Trinity",
+  "ko": "이치카",
+  "path": "Trinity/Ichika",
+  "foot": 1,
+  "h": 61,
+  "w": 40
+ },
+ {
+  "id": "Ichika (Swimsuit)",
+  "school": "Trinity",
+  "ko": "이치카",
+  "path": "Trinity/Ichika (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 51
+ },
+ {
+  "id": "Kazusa",
+  "school": "Trinity",
+  "ko": "카즈사",
+  "path": "Trinity/Kazusa",
+  "foot": 1,
+  "h": 59,
+  "w": 27
+ },
+ {
+  "id": "Kazusa (Band)",
+  "school": "Trinity",
+  "ko": "카즈사",
+  "path": "Trinity/Kazusa (Band)",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Koharu",
+  "school": "Trinity",
+  "ko": "코하루",
+  "path": "Trinity/Koharu",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Koharu (Swimsuit)",
+  "school": "Trinity",
+  "ko": "코하루",
+  "path": "Trinity/Koharu (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 29
+ },
+ {
+  "id": "Mari",
+  "school": "Trinity",
+  "ko": "마리",
+  "path": "Trinity/Mari",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Mari (Idol)",
+  "school": "Trinity",
+  "ko": "마리",
+  "path": "Trinity/Mari (Idol)",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Mari (Sportswear)",
+  "school": "Trinity",
+  "ko": "마리",
+  "path": "Trinity/Mari (Sportswear)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Mashiro",
+  "school": "Trinity",
+  "ko": "마시로",
+  "path": "Trinity/Mashiro",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Mashiro (Swimsuit)",
+  "school": "Trinity",
+  "ko": "마시로",
+  "path": "Trinity/Mashiro (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 23
+ },
+ {
+  "id": "Mika",
+  "school": "Trinity",
+  "ko": "미카",
+  "path": "Trinity/Mika",
+  "foot": 3,
+  "h": 58,
+  "w": 46
+ },
+ {
+  "id": "Mika (Swimsuit)",
+  "school": "Trinity",
+  "ko": "미카",
+  "path": "Trinity/Mika (Swimsuit)",
+  "foot": 5,
+  "h": 53,
+  "w": 45
+ },
+ {
+  "id": "Mine",
+  "school": "Trinity",
+  "ko": "미네",
+  "path": "Trinity/Mine",
+  "foot": 1,
+  "h": 60,
+  "w": 48
+ },
+ {
+  "id": "Mine (Idol)",
+  "school": "Trinity",
+  "ko": "미네",
+  "path": "Trinity/Mine (Idol)",
+  "foot": 1,
+  "h": 61,
+  "w": 46
+ },
+ {
+  "id": "Nagisa",
+  "school": "Trinity",
+  "ko": "나기사",
+  "path": "Trinity/Nagisa",
+  "foot": 1,
+  "h": 61,
+  "w": 43
+ },
+ {
+  "id": "Nagisa (Swimsuit)",
+  "school": "Trinity",
+  "ko": "나기사",
+  "path": "Trinity/Nagisa (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 42
+ },
+ {
+  "id": "Natsu",
+  "school": "Trinity",
+  "ko": "나츠",
+  "path": "Trinity/Natsu",
+  "foot": 1,
+  "h": 62,
+  "w": 31
+ },
+ {
+  "id": "Natsu (Band)",
+  "school": "Trinity",
+  "ko": "나츠",
+  "path": "Trinity/Natsu (Band)",
+  "foot": 1,
+  "h": 62,
+  "w": 29
+ },
+ {
+  "id": "Rabu",
+  "school": "Trinity",
+  "ko": "라브",
+  "path": "Trinity/Rabu",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Reisa",
+  "school": "Trinity",
+  "ko": "레이사",
+  "path": "Trinity/Reisa",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Reisa (Magical)",
+  "school": "Trinity",
+  "ko": "레이사",
+  "path": "Trinity/Reisa (Magical)",
+  "foot": 1,
+  "h": 61,
+  "w": 42
+ },
+ {
+  "id": "Sakurako",
+  "school": "Trinity",
+  "ko": "사쿠라코",
+  "path": "Trinity/Sakurako",
+  "foot": 1,
+  "h": 62,
+  "w": 39
+ },
+ {
+  "id": "Sakurako (Idol)",
+  "school": "Trinity",
+  "ko": "사쿠라코",
+  "path": "Trinity/Sakurako (Idol)",
+  "foot": 1,
+  "h": 61,
+  "w": 37
+ },
+ {
+  "id": "Seia",
+  "school": "Trinity",
+  "ko": "세이아",
+  "path": "Trinity/Seia",
+  "foot": 1,
+  "h": 60,
+  "w": 31
+ },
+ {
+  "id": "Seia (Swimsuit)",
+  "school": "Trinity",
+  "ko": "세이아",
+  "path": "Trinity/Seia (Swimsuit)",
+  "foot": 2,
+  "h": 59,
+  "w": 25
+ },
+ {
+  "id": "Serina",
+  "school": "Trinity",
+  "ko": "세리나",
+  "path": "Trinity/Serina",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Serina (Christmas)",
+  "school": "Trinity",
+  "ko": "세리나",
+  "path": "Trinity/Serina (Christmas)",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Shimiko",
+  "school": "Trinity",
+  "ko": "시미코",
+  "path": "Trinity/Shimiko",
+  "foot": 1,
+  "h": 61,
+  "w": 41
+ },
+ {
+  "id": "Suzumi",
+  "school": "Trinity",
+  "ko": "스즈미",
+  "path": "Trinity/Suzumi",
+  "foot": 1,
+  "h": 61,
+  "w": 40
+ },
+ {
+  "id": "Suzumi (Magical)",
+  "school": "Trinity",
+  "ko": "스즈미",
+  "path": "Trinity/Suzumi (Magical)",
+  "foot": 1,
+  "h": 61,
+  "w": 36
+ },
+ {
+  "id": "Tsurugi",
+  "school": "Trinity",
+  "ko": "츠루기",
+  "path": "Trinity/Tsurugi",
+  "foot": 1,
+  "h": 57,
+  "w": 46
+ },
+ {
+  "id": "Tsurugi (Swimsuit)",
+  "school": "Trinity",
+  "ko": "츠루기",
+  "path": "Trinity/Tsurugi (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Ui",
+  "school": "Trinity",
+  "ko": "우이",
+  "path": "Trinity/Ui",
+  "foot": 1,
+  "h": 61,
+  "w": 46
+ },
+ {
+  "id": "Ui (Swimsuit)",
+  "school": "Trinity",
+  "ko": "우이",
+  "path": "Trinity/Ui (Swimsuit)",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Yoshimi",
+  "school": "Trinity",
+  "ko": "요시미",
+  "path": "Trinity/Yoshimi",
+  "foot": 1,
+  "h": 60,
+  "w": 33
+ },
+ {
+  "id": "Yoshimi (Band)",
+  "school": "Trinity",
+  "ko": "요시미",
+  "path": "Trinity/Yoshimi (Band)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Akane",
+  "school": "Millennium",
+  "ko": "아카네",
+  "path": "Millennium/Akane",
+  "foot": 1,
+  "h": 60,
+  "w": 30
+ },
+ {
+  "id": "Akane (Bunny Girl)",
+  "school": "Millennium",
+  "ko": "아카네",
+  "path": "Millennium/Akane (Bunny Girl)",
+  "foot": 1,
+  "h": 60,
+  "w": 27
+ },
+ {
+  "id": "Akane (School Uniform)",
+  "school": "Millennium",
+  "ko": "아카네",
+  "path": "Millennium/Akane (School Uniform)",
+  "foot": 1,
+  "h": 61,
+  "w": 29
+ },
+ {
+  "id": "Arisu",
+  "school": "Millennium",
+  "ko": "아리스",
+  "path": "Millennium/Arisu",
+  "foot": 3,
+  "h": 55,
+  "w": 34
+ },
+ {
+  "id": "Arisu (Battle)",
+  "school": "Millennium",
+  "ko": "아리스",
+  "path": "Millennium/Arisu (Battle)",
+  "foot": 1,
+  "h": 61,
+  "w": 38
+ },
+ {
+  "id": "Arisu (Battle) (Scenario)",
+  "school": "Millennium",
+  "ko": "아리스",
+  "path": "Millennium/Arisu (Battle) (Scenario)",
+  "foot": 1,
+  "h": 58,
+  "w": 48
+ },
+ {
+  "id": "Arisu (Maid)",
+  "school": "Millennium",
+  "ko": "아리스",
+  "path": "Millennium/Arisu (Maid)",
+  "foot": 4,
+  "h": 50,
+  "w": 35
+ },
+ {
+  "id": "Asuna",
+  "school": "Millennium",
+  "ko": "아스나",
+  "path": "Millennium/Asuna",
+  "foot": 1,
+  "h": 62,
+  "w": 36
+ },
+ {
+  "id": "Asuna (Bunny Girl)",
+  "school": "Millennium",
+  "ko": "아스나",
+  "path": "Millennium/Asuna (Bunny Girl)",
+  "foot": 1,
+  "h": 60,
+  "w": 31
+ },
+ {
+  "id": "Asuna (School Uniform)",
+  "school": "Millennium",
+  "ko": "아스나",
+  "path": "Millennium/Asuna (School Uniform)",
+  "foot": 1,
+  "h": 62,
+  "w": 32
+ },
+ {
+  "id": "Chihiro",
+  "school": "Millennium",
+  "ko": "치히로",
+  "path": "Millennium/Chihiro",
+  "foot": 1,
+  "h": 60,
+  "w": 28
+ },
+ {
+  "id": "Eimi",
+  "school": "Millennium",
+  "ko": "에이미",
+  "path": "Millennium/Eimi",
+  "foot": 1,
+  "h": 59,
+  "w": 36
+ },
+ {
+  "id": "Eimi (Battle)",
+  "school": "Millennium",
+  "ko": "에이미",
+  "path": "Millennium/Eimi (Battle)",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Eimi (Battle) (Carrier)",
+  "school": "Millennium",
+  "ko": "에이미",
+  "path": "Millennium/Eimi (Battle) (Carrier)",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Eimi (Swimsuit)",
+  "school": "Millennium",
+  "ko": "에이미",
+  "path": "Millennium/Eimi (Swimsuit)",
+  "foot": 2,
+  "h": 57,
+  "w": 24
+ },
+ {
+  "id": "Hare",
+  "school": "Millennium",
+  "ko": "하레",
+  "path": "Millennium/Hare",
+  "foot": 1,
+  "h": 60,
+  "w": 26
+ },
+ {
+  "id": "Hare (Camping)",
+  "school": "Millennium",
+  "ko": "하레",
+  "path": "Millennium/Hare (Camping)",
+  "foot": 1,
+  "h": 62,
+  "w": 29
+ },
+ {
+  "id": "Hibiki",
+  "school": "Millennium",
+  "ko": "히비키",
+  "path": "Millennium/Hibiki",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Hibiki (Cheerleader)",
+  "school": "Millennium",
+  "ko": "히비키",
+  "path": "Millennium/Hibiki (Cheerleader)",
+  "foot": 1,
+  "h": 60,
+  "w": 30
+ },
+ {
+  "id": "Himari",
+  "school": "Millennium",
+  "ko": "히마리",
+  "path": "Millennium/Himari",
+  "foot": 2,
+  "h": 60,
+  "w": 50
+ },
+ {
+  "id": "Himari (Battle)",
+  "school": "Millennium",
+  "ko": "히마리",
+  "path": "Millennium/Himari (Battle)",
+  "foot": 2,
+  "h": 60,
+  "w": 50
+ },
+ {
+  "id": "Karin",
+  "school": "Millennium",
+  "ko": "카린",
+  "path": "Millennium/Karin",
+  "foot": 1,
+  "h": 62,
+  "w": 33
+ },
+ {
+  "id": "Karin (Bunny Girl)",
+  "school": "Millennium",
+  "ko": "카린",
+  "path": "Millennium/Karin (Bunny Girl)",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Karin (School Uniform)",
+  "school": "Millennium",
+  "ko": "카린",
+  "path": "Millennium/Karin (School Uniform)",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Kei",
+  "school": "Millennium",
+  "ko": "케이",
+  "path": "Millennium/Kei",
+  "foot": 1,
+  "h": 61,
+  "w": 38
+ },
+ {
+  "id": "Kei (Scenario 1)",
+  "school": "Millennium",
+  "ko": "케이",
+  "path": "Millennium/Kei (Scenario 1)",
+  "foot": 3,
+  "h": 58,
+  "w": 37
+ },
+ {
+  "id": "Kei (Scenario 2)",
+  "school": "Millennium",
+  "ko": "케이",
+  "path": "Millennium/Kei (Scenario 2)",
+  "foot": 3,
+  "h": 58,
+  "w": 37
+ },
+ {
+  "id": "Kotama",
+  "school": "Millennium",
+  "ko": "코타마",
+  "path": "Millennium/Kotama",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Kotama (Camping)",
+  "school": "Millennium",
+  "ko": "코타마",
+  "path": "Millennium/Kotama (Camping)",
+  "foot": 1,
+  "h": 60,
+  "w": 23
+ },
+ {
+  "id": "Kotori",
+  "school": "Millennium",
+  "ko": "코토리",
+  "path": "Millennium/Kotori",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Kotori (Cheerleader)",
+  "school": "Millennium",
+  "ko": "코토리",
+  "path": "Millennium/Kotori (Cheerleader)",
+  "foot": 1,
+  "h": 62,
+  "w": 27
+ },
+ {
+  "id": "Koyuki",
+  "school": "Millennium",
+  "ko": "코유키",
+  "path": "Millennium/Koyuki",
+  "foot": 1,
+  "h": 59,
+  "w": 53
+ },
+ {
+  "id": "Koyuki (Pajama)",
+  "school": "Millennium",
+  "ko": "코유키",
+  "path": "Millennium/Koyuki (Pajama)",
+  "foot": 1,
+  "h": 61,
+  "w": 52
+ },
+ {
+  "id": "Maki",
+  "school": "Millennium",
+  "ko": "마키",
+  "path": "Millennium/Maki",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Maki (Camping)",
+  "school": "Millennium",
+  "ko": "마키",
+  "path": "Millennium/Maki (Camping)",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Midori",
+  "school": "Millennium",
+  "ko": "미도리",
+  "path": "Millennium/Midori",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Midori (Maid)",
+  "school": "Millennium",
+  "ko": "미도리",
+  "path": "Millennium/Midori (Maid)",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Momoi",
+  "school": "Millennium",
+  "ko": "모모이",
+  "path": "Millennium/Momoi",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Momoi (Maid)",
+  "school": "Millennium",
+  "ko": "모모이",
+  "path": "Millennium/Momoi (Maid)",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Neru",
+  "school": "Millennium",
+  "ko": "네루",
+  "path": "Millennium/Neru",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Neru (Bunny Girl)",
+  "school": "Millennium",
+  "ko": "네루",
+  "path": "Millennium/Neru (Bunny Girl)",
+  "foot": 1,
+  "h": 62,
+  "w": 23
+ },
+ {
+  "id": "Neru (School Uniform)",
+  "school": "Millennium",
+  "ko": "네루",
+  "path": "Millennium/Neru (School Uniform)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Noa",
+  "school": "Millennium",
+  "ko": "노아",
+  "path": "Millennium/Noa",
+  "foot": 1,
+  "h": 62,
+  "w": 37
+ },
+ {
+  "id": "Noa (Pajama)",
+  "school": "Millennium",
+  "ko": "노아",
+  "path": "Millennium/Noa (Pajama)",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Rei",
+  "school": "Millennium",
+  "ko": "레이",
+  "path": "Millennium/Rei",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Rio",
+  "school": "Millennium",
+  "ko": "리오",
+  "path": "Millennium/Rio",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Rio (Battle)",
+  "school": "Millennium",
+  "ko": "리오",
+  "path": "Millennium/Rio (Battle)",
+  "foot": 1,
+  "h": 60,
+  "w": 21
+ },
+ {
+  "id": "Sumire",
+  "school": "Millennium",
+  "ko": "스미레",
+  "path": "Millennium/Sumire",
+  "foot": 1,
+  "h": 60,
+  "w": 25
+ },
+ {
+  "id": "Sumire (Part-Timer)",
+  "school": "Millennium",
+  "ko": "스미레",
+  "path": "Millennium/Sumire (Part-Timer)",
+  "foot": 1,
+  "h": 58,
+  "w": 51
+ },
+ {
+  "id": "Toki",
+  "school": "Millennium",
+  "ko": "토키",
+  "path": "Millennium/Toki",
+  "foot": 1,
+  "h": 57,
+  "w": 21
+ },
+ {
+  "id": "Toki (Battle)",
+  "school": "Millennium",
+  "ko": "토키",
+  "path": "Millennium/Toki (Battle)",
+  "foot": 1,
+  "h": 60,
+  "w": 26
+ },
+ {
+  "id": "Toki (Battle) (Scenario)",
+  "school": "Millennium",
+  "ko": "토키",
+  "path": "Millennium/Toki (Battle) (Scenario)",
+  "foot": 2,
+  "h": 60,
+  "w": 28
+ },
+ {
+  "id": "Toki (Bunny Girl)",
+  "school": "Millennium",
+  "ko": "토키",
+  "path": "Millennium/Toki (Bunny Girl)",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Toki (Cafe)",
+  "school": "Millennium",
+  "ko": "토키",
+  "path": "Millennium/Toki (Cafe)",
+  "foot": 1,
+  "h": 60,
+  "w": 28
+ },
+ {
+  "id": "Utaha",
+  "school": "Millennium",
+  "ko": "우타하",
+  "path": "Millennium/Utaha",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Utaha (Cheerleader)",
+  "school": "Millennium",
+  "ko": "우타하",
+  "path": "Millennium/Utaha (Cheerleader)",
+  "foot": 3,
+  "h": 56,
+  "w": 24
+ },
+ {
+  "id": "Yuuka",
+  "school": "Millennium",
+  "ko": "유우카",
+  "path": "Millennium/Yuuka",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Yuuka (Pajama)",
+  "school": "Millennium",
+  "ko": "유우카",
+  "path": "Millennium/Yuuka (Pajama)",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Yuuka (Sportswear)",
+  "school": "Millennium",
+  "ko": "유우카",
+  "path": "Millennium/Yuuka (Sportswear)",
+  "foot": 1,
+  "h": 60,
+  "w": 25
+ },
+ {
+  "id": "Yuzu",
+  "school": "Millennium",
+  "ko": "유즈",
+  "path": "Millennium/Yuzu",
+  "foot": 1,
+  "h": 61,
+  "w": 38
+ },
+ {
+  "id": "Yuzu (Battle)",
+  "school": "Millennium",
+  "ko": "유즈",
+  "path": "Millennium/Yuzu (Battle)",
+  "foot": 5,
+  "h": 53,
+  "w": 25
+ },
+ {
+  "id": "Yuzu (Battle) (Carrier)",
+  "school": "Millennium",
+  "ko": "유즈",
+  "path": "Millennium/Yuzu (Battle) (Carrier)",
+  "foot": 5,
+  "h": 53,
+  "w": 25
+ },
+ {
+  "id": "Yuzu (Maid)",
+  "school": "Millennium",
+  "ko": "유즈",
+  "path": "Millennium/Yuzu (Maid)",
+  "foot": 4,
+  "h": 55,
+  "w": 32
+ },
+ {
+  "id": "Akari",
+  "school": "Gehenna",
+  "ko": "아카리",
+  "path": "Gehenna/Akari",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Akari (New Year)",
+  "school": "Gehenna",
+  "ko": "아카리",
+  "path": "Gehenna/Akari (New Year)",
+  "foot": 6,
+  "h": 51,
+  "w": 30
+ },
+ {
+  "id": "Ako",
+  "school": "Gehenna",
+  "ko": "아코",
+  "path": "Gehenna/Ako",
+  "foot": 1,
+  "h": 60,
+  "w": 28
+ },
+ {
+  "id": "Ako (Dress)",
+  "school": "Gehenna",
+  "ko": "아코",
+  "path": "Gehenna/Ako (Dress)",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Aru",
+  "school": "Gehenna",
+  "ko": "아루",
+  "path": "Gehenna/Aru",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Aru (Dress)",
+  "school": "Gehenna",
+  "ko": "아루",
+  "path": "Gehenna/Aru (Dress)",
+  "foot": 1,
+  "h": 62,
+  "w": 28
+ },
+ {
+  "id": "Aru (New Year)",
+  "school": "Gehenna",
+  "ko": "아루",
+  "path": "Gehenna/Aru (New Year)",
+  "foot": 4,
+  "h": 50,
+  "w": 25
+ },
+ {
+  "id": "Chiaki",
+  "school": "Gehenna",
+  "ko": "치아키",
+  "path": "Gehenna/Chiaki",
+  "foot": 1,
+  "h": 60,
+  "w": 35
+ },
+ {
+  "id": "Chinatsu",
+  "school": "Gehenna",
+  "ko": "치나츠",
+  "path": "Gehenna/Chinatsu",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Chinatsu (Hot Spring)",
+  "school": "Gehenna",
+  "ko": "치나츠",
+  "path": "Gehenna/Chinatsu (Hot Spring)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Erika",
+  "school": "Gehenna",
+  "ko": "에리카",
+  "path": "Gehenna/Erika",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Fuuka",
+  "school": "Gehenna",
+  "ko": "후우카",
+  "path": "Gehenna/Fuuka",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Fuuka (New Year)",
+  "school": "Gehenna",
+  "ko": "후우카",
+  "path": "Gehenna/Fuuka (New Year)",
+  "foot": 1,
+  "h": 60,
+  "w": 26
+ },
+ {
+  "id": "Haruka",
+  "school": "Gehenna",
+  "ko": "하루카",
+  "path": "Gehenna/Haruka",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Haruka (Dress)",
+  "school": "Gehenna",
+  "ko": "하루카",
+  "path": "Gehenna/Haruka (Dress)",
+  "foot": 1,
+  "h": 59,
+  "w": 24
+ },
+ {
+  "id": "Haruka (New Year)",
+  "school": "Gehenna",
+  "ko": "하루카",
+  "path": "Gehenna/Haruka (New Year)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Haruna",
+  "school": "Gehenna",
+  "ko": "하루나",
+  "path": "Gehenna/Haruna",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Haruna (New Year)",
+  "school": "Gehenna",
+  "ko": "하루나",
+  "path": "Gehenna/Haruna (New Year)",
+  "foot": 2,
+  "h": 56,
+  "w": 33
+ },
+ {
+  "id": "Haruna (Sportswear)",
+  "school": "Gehenna",
+  "ko": "하루나",
+  "path": "Gehenna/Haruna (Sportswear)",
+  "foot": 1,
+  "h": 61,
+  "w": 37
+ },
+ {
+  "id": "Hina",
+  "school": "Gehenna",
+  "ko": "히나",
+  "path": "Gehenna/Hina",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Hina (Dress)",
+  "school": "Gehenna",
+  "ko": "히나",
+  "path": "Gehenna/Hina (Dress)",
+  "foot": 1,
+  "h": 61,
+  "w": 41
+ },
+ {
+  "id": "Hina (Swimsuit)",
+  "school": "Gehenna",
+  "ko": "히나",
+  "path": "Gehenna/Hina (Swimsuit)",
+  "foot": 1,
+  "h": 59,
+  "w": 35
+ },
+ {
+  "id": "Ibuki",
+  "school": "Gehenna",
+  "ko": "이부키",
+  "path": "Gehenna/Ibuki",
+  "foot": 2,
+  "h": 59,
+  "w": 34
+ },
+ {
+  "id": "Iori",
+  "school": "Gehenna",
+  "ko": "이오리",
+  "path": "Gehenna/Iori",
+  "foot": 1,
+  "h": 59,
+  "w": 42
+ },
+ {
+  "id": "Iori (Swimsuit)",
+  "school": "Gehenna",
+  "ko": "이오리",
+  "path": "Gehenna/Iori (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 45
+ },
+ {
+  "id": "Iroha",
+  "school": "Gehenna",
+  "ko": "이로하",
+  "path": "Gehenna/Iroha",
+  "foot": 1,
+  "h": 62,
+  "w": 34
+ },
+ {
+  "id": "Izumi",
+  "school": "Gehenna",
+  "ko": "이즈미",
+  "path": "Gehenna/Izumi",
+  "foot": 1,
+  "h": 61,
+  "w": 43
+ },
+ {
+  "id": "Izumi (New Year)",
+  "school": "Gehenna",
+  "ko": "이즈미",
+  "path": "Gehenna/Izumi (New Year)",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Izumi (Swimsuit)",
+  "school": "Gehenna",
+  "ko": "이즈미",
+  "path": "Gehenna/Izumi (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 39
+ },
+ {
+  "id": "Junko",
+  "school": "Gehenna",
+  "ko": "준코",
+  "path": "Gehenna/Junko",
+  "foot": 1,
+  "h": 61,
+  "w": 47
+ },
+ {
+  "id": "Junko (New Year)",
+  "school": "Gehenna",
+  "ko": "준코",
+  "path": "Gehenna/Junko (New Year)",
+  "foot": 6,
+  "h": 50,
+  "w": 37
+ },
+ {
+  "id": "Juri",
+  "school": "Gehenna",
+  "ko": "주리",
+  "path": "Gehenna/Juri",
+  "foot": 1,
+  "h": 61,
+  "w": 40
+ },
+ {
+  "id": "Juri (Part-Timer)",
+  "school": "Gehenna",
+  "ko": "주리",
+  "path": "Gehenna/Juri (Part-Timer)",
+  "foot": 1,
+  "h": 59,
+  "w": 31
+ },
+ {
+  "id": "Kasumi",
+  "school": "Gehenna",
+  "ko": "카스미",
+  "path": "Gehenna/Kasumi",
+  "foot": 4,
+  "h": 56,
+  "w": 38
+ },
+ {
+  "id": "Kayoko",
+  "school": "Gehenna",
+  "ko": "카요코",
+  "path": "Gehenna/Kayoko",
+  "foot": 1,
+  "h": 60,
+  "w": 27
+ },
+ {
+  "id": "Kayoko (Dress)",
+  "school": "Gehenna",
+  "ko": "카요코",
+  "path": "Gehenna/Kayoko (Dress)",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Kayoko (New Year)",
+  "school": "Gehenna",
+  "ko": "카요코",
+  "path": "Gehenna/Kayoko (New Year)",
+  "foot": 1,
+  "h": 59,
+  "w": 24
+ },
+ {
+  "id": "Kirara",
+  "school": "Gehenna",
+  "ko": "키라라",
+  "path": "Gehenna/Kirara",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Makoto",
+  "school": "Gehenna",
+  "ko": "마코토",
+  "path": "Gehenna/Makoto",
+  "foot": 1,
+  "h": 55,
+  "w": 29
+ },
+ {
+  "id": "Megu",
+  "school": "Gehenna",
+  "ko": "메구",
+  "path": "Gehenna/Megu",
+  "foot": 1,
+  "h": 60,
+  "w": 29
+ },
+ {
+  "id": "Mutsuki",
+  "school": "Gehenna",
+  "ko": "무츠키",
+  "path": "Gehenna/Mutsuki",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Mutsuki (Dress)",
+  "school": "Gehenna",
+  "ko": "무츠키",
+  "path": "Gehenna/Mutsuki (Dress)",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Mutsuki (New Year)",
+  "school": "Gehenna",
+  "ko": "무츠키",
+  "path": "Gehenna/Mutsuki (New Year)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Satsuki",
+  "school": "Gehenna",
+  "ko": "사츠키",
+  "path": "Gehenna/Satsuki",
+  "foot": 1,
+  "h": 59,
+  "w": 29
+ },
+ {
+  "id": "Sena",
+  "school": "Gehenna",
+  "ko": "세나",
+  "path": "Gehenna/Sena",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Sena (Casual)",
+  "school": "Gehenna",
+  "ko": "세나",
+  "path": "Gehenna/Sena (Casual)",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Aoba",
+  "school": "Highlander",
+  "ko": "아오바",
+  "path": "Highlander/Aoba",
+  "foot": 1,
+  "h": 62,
+  "w": 27
+ },
+ {
+  "id": "Hikari",
+  "school": "Highlander",
+  "ko": "히카리",
+  "path": "Highlander/Hikari",
+  "foot": 6,
+  "h": 51,
+  "w": 25
+ },
+ {
+  "id": "Nozomi",
+  "school": "Highlander",
+  "ko": "노조미",
+  "path": "Highlander/Nozomi",
+  "foot": 8,
+  "h": 48,
+  "w": 32
+ },
+ {
+  "id": "Atsuko",
+  "school": "Arius",
+  "ko": "아츠코",
+  "path": "Arius/Atsuko",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Atsuko (Swimsuit)",
+  "school": "Arius",
+  "ko": "아츠코",
+  "path": "Arius/Atsuko (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Hiyori",
+  "school": "Arius",
+  "ko": "히요리",
+  "path": "Arius/Hiyori",
+  "foot": 1,
+  "h": 61,
+  "w": 41
+ },
+ {
+  "id": "Hiyori (Swimsuit)",
+  "school": "Arius",
+  "ko": "히요리",
+  "path": "Arius/Hiyori (Swimsuit)",
+  "foot": 1,
+  "h": 59,
+  "w": 31
+ },
+ {
+  "id": "Misaki",
+  "school": "Arius",
+  "ko": "미사키",
+  "path": "Arius/Misaki",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Misaki (Swimsuit)",
+  "school": "Arius",
+  "ko": "미사키",
+  "path": "Arius/Misaki (Swimsuit)",
+  "foot": 1,
+  "h": 62,
+  "w": 27
+ },
+ {
+  "id": "Saori",
+  "school": "Arius",
+  "ko": "사오리",
+  "path": "Arius/Saori",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Saori (Dress)",
+  "school": "Arius",
+  "ko": "사오리",
+  "path": "Arius/Saori (Dress)",
+  "foot": 9,
+  "h": 45,
+  "w": 24
+ },
+ {
+  "id": "Saori (Dress) (Cafe)",
+  "school": "Arius",
+  "ko": "사오리",
+  "path": "Arius/Saori (Dress) (Cafe)",
+  "foot": 8,
+  "h": 48,
+  "w": 39
+ },
+ {
+  "id": "Saori (Swimsuit)",
+  "school": "Arius",
+  "ko": "사오리",
+  "path": "Arius/Saori (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Subaru",
+  "school": "Arius",
+  "ko": "스바루",
+  "path": "Arius/Subaru",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Ayane",
+  "school": "Abydos",
+  "ko": "아야네",
+  "path": "Abydos/Ayane",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Ayane (Swimsuit)",
+  "school": "Abydos",
+  "ko": "아야네",
+  "path": "Abydos/Ayane (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 23
+ },
+ {
+  "id": "Hoshino",
+  "school": "Abydos",
+  "ko": "호시노",
+  "path": "Abydos/Hoshino",
+  "foot": 1,
+  "h": 61,
+  "w": 34
+ },
+ {
+  "id": "Hoshino (Swimsuit)",
+  "school": "Abydos",
+  "ko": "호시노",
+  "path": "Abydos/Hoshino (Swimsuit)",
+  "foot": 1,
+  "h": 62,
+  "w": 28
+ },
+ {
+  "id": "Nonomi",
+  "school": "Abydos",
+  "ko": "노노미",
+  "path": "Abydos/Nonomi",
+  "foot": 2,
+  "h": 49,
+  "w": 34
+ },
+ {
+  "id": "Nonomi (Swimsuit)",
+  "school": "Abydos",
+  "ko": "노노미",
+  "path": "Abydos/Nonomi (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 29
+ },
+ {
+  "id": "Serika",
+  "school": "Abydos",
+  "ko": "세리카",
+  "path": "Abydos/Serika",
+  "foot": 1,
+  "h": 61,
+  "w": 43
+ },
+ {
+  "id": "Serika (New Year)",
+  "school": "Abydos",
+  "ko": "세리카",
+  "path": "Abydos/Serika (New Year)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Serika (Swimsuit)",
+  "school": "Abydos",
+  "ko": "세리카",
+  "path": "Abydos/Serika (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 46
+ },
+ {
+  "id": "Shiroko",
+  "school": "Abydos",
+  "ko": "시로코",
+  "path": "Abydos/Shiroko",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Shiroko (Riding)",
+  "school": "Abydos",
+  "ko": "시로코",
+  "path": "Abydos/Shiroko (Riding)",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Shiroko (Swimsuit)",
+  "school": "Abydos",
+  "ko": "시로코",
+  "path": "Abydos/Shiroko (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Shiroko＊Terror",
+  "school": "Abydos",
+  "ko": "시로코",
+  "path": "Abydos/Shiroko＊Terror",
+  "foot": 1,
+  "h": 62,
+  "w": 40
+ },
+ {
+  "id": "Cherino",
+  "school": "RedWinter",
+  "ko": "체리노",
+  "path": "RedWinter/Cherino",
+  "foot": 1,
+  "h": 60,
+  "w": 29
+ },
+ {
+  "id": "Cherino (Hot Spring)",
+  "school": "RedWinter",
+  "ko": "체리노",
+  "path": "RedWinter/Cherino (Hot Spring)",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Marina",
+  "school": "RedWinter",
+  "ko": "마리나",
+  "path": "RedWinter/Marina",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Marina (Qipao)",
+  "school": "RedWinter",
+  "ko": "마리나",
+  "path": "RedWinter/Marina (Qipao)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Meru",
+  "school": "RedWinter",
+  "ko": "메루",
+  "path": "RedWinter/Meru",
+  "foot": 1,
+  "h": 58,
+  "w": 32
+ },
+ {
+  "id": "Minori",
+  "school": "RedWinter",
+  "ko": "미노리",
+  "path": "RedWinter/Minori",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Momiji",
+  "school": "RedWinter",
+  "ko": "모미지",
+  "path": "RedWinter/Momiji",
+  "foot": 1,
+  "h": 61,
+  "w": 39
+ },
+ {
+  "id": "Nodoka",
+  "school": "RedWinter",
+  "ko": "노도카",
+  "path": "RedWinter/Nodoka",
+  "foot": 1,
+  "h": 60,
+  "w": 49
+ },
+ {
+  "id": "Nodoka (Hot Spring)",
+  "school": "RedWinter",
+  "ko": "노도카",
+  "path": "RedWinter/Nodoka (Hot Spring)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Shigure",
+  "school": "RedWinter",
+  "ko": "시구레",
+  "path": "RedWinter/Shigure",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Shigure (Hot Spring)",
+  "school": "RedWinter",
+  "ko": "시구레",
+  "path": "RedWinter/Shigure (Hot Spring)",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Takane",
+  "school": "RedWinter",
+  "ko": "타카네",
+  "path": "RedWinter/Takane",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Tomoe",
+  "school": "RedWinter",
+  "ko": "토모에",
+  "path": "RedWinter/Tomoe",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Tomoe (Qipao)",
+  "school": "RedWinter",
+  "ko": "토모에",
+  "path": "RedWinter/Tomoe (Qipao)",
+  "foot": 1,
+  "h": 57,
+  "w": 29
+ },
+ {
+  "id": "Yakumo",
+  "school": "RedWinter",
+  "ko": "야쿠모",
+  "path": "RedWinter/Yakumo",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Chise",
+  "school": "Hyakkiyako",
+  "ko": "치세",
+  "path": "Hyakkiyako/Chise",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Chise (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "치세",
+  "path": "Hyakkiyako/Chise (Swimsuit)",
+  "foot": 1,
+  "h": 59,
+  "w": 39
+ },
+ {
+  "id": "Izuna",
+  "school": "Hyakkiyako",
+  "ko": "이즈나",
+  "path": "Hyakkiyako/Izuna",
+  "foot": 1,
+  "h": 55,
+  "w": 30
+ },
+ {
+  "id": "Izuna (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "이즈나",
+  "path": "Hyakkiyako/Izuna (Swimsuit)",
+  "foot": 1,
+  "h": 59,
+  "w": 37
+ },
+ {
+  "id": "Kaede",
+  "school": "Hyakkiyako",
+  "ko": "카에데",
+  "path": "Hyakkiyako/Kaede",
+  "foot": 1,
+  "h": 62,
+  "w": 32
+ },
+ {
+  "id": "Kaho",
+  "school": "Hyakkiyako",
+  "ko": "카호",
+  "path": "Hyakkiyako/Kaho",
+  "foot": 1,
+  "h": 57,
+  "w": 24
+ },
+ {
+  "id": "Kikyou",
+  "school": "Hyakkiyako",
+  "ko": "키쿄",
+  "path": "Hyakkiyako/Kikyou",
+  "foot": 3,
+  "h": 57,
+  "w": 30
+ },
+ {
+  "id": "Kikyou (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "키쿄",
+  "path": "Hyakkiyako/Kikyou (Swimsuit)",
+  "foot": 3,
+  "h": 58,
+  "w": 20
+ },
+ {
+  "id": "Michiru",
+  "school": "Hyakkiyako",
+  "ko": "미치루",
+  "path": "Hyakkiyako/Michiru",
+  "foot": 4,
+  "h": 48,
+  "w": 32
+ },
+ {
+  "id": "Michiru (Dress)",
+  "school": "Hyakkiyako",
+  "ko": "미치루",
+  "path": "Hyakkiyako/Michiru (Dress)",
+  "foot": 1,
+  "h": 59,
+  "w": 31
+ },
+ {
+  "id": "Mimori",
+  "school": "Hyakkiyako",
+  "ko": "미모리",
+  "path": "Hyakkiyako/Mimori",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Mimori (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "미모리",
+  "path": "Hyakkiyako/Mimori (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 25
+ },
+ {
+  "id": "Nagusa",
+  "school": "Hyakkiyako",
+  "ko": "나구사",
+  "path": "Hyakkiyako/Nagusa",
+  "foot": 1,
+  "h": 59,
+  "w": 34
+ },
+ {
+  "id": "Nagusa (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "나구사",
+  "path": "Hyakkiyako/Nagusa (Swimsuit)",
+  "foot": 1,
+  "h": 57,
+  "w": 35
+ },
+ {
+  "id": "Niya",
+  "school": "Hyakkiyako",
+  "ko": "니야",
+  "path": "Hyakkiyako/Niya",
+  "foot": 1,
+  "h": 60,
+  "w": 25
+ },
+ {
+  "id": "Pina",
+  "school": "Hyakkiyako",
+  "ko": "피나",
+  "path": "Hyakkiyako/Pina",
+  "foot": 1,
+  "h": 60,
+  "w": 32
+ },
+ {
+  "id": "Pina (Guide)",
+  "school": "Hyakkiyako",
+  "ko": "피나",
+  "path": "Hyakkiyako/Pina (Guide)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Renge",
+  "school": "Hyakkiyako",
+  "ko": "렌게",
+  "path": "Hyakkiyako/Renge",
+  "foot": 6,
+  "h": 50,
+  "w": 39
+ },
+ {
+  "id": "Renge (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "렌게",
+  "path": "Hyakkiyako/Renge (Swimsuit)",
+  "foot": 11,
+  "h": 42,
+  "w": 26
+ },
+ {
+  "id": "Shizuko",
+  "school": "Hyakkiyako",
+  "ko": "시즈코",
+  "path": "Hyakkiyako/Shizuko",
+  "foot": 1,
+  "h": 61,
+  "w": 46
+ },
+ {
+  "id": "Shizuko (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "시즈코",
+  "path": "Hyakkiyako/Shizuko (Swimsuit)",
+  "foot": 6,
+  "h": 52,
+  "w": 44
+ },
+ {
+  "id": "Tsubaki",
+  "school": "Hyakkiyako",
+  "ko": "츠바키",
+  "path": "Hyakkiyako/Tsubaki",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Tsubaki (Guide)",
+  "school": "Hyakkiyako",
+  "ko": "츠바키",
+  "path": "Hyakkiyako/Tsubaki (Guide)",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Tsukuyo",
+  "school": "Hyakkiyako",
+  "ko": "츠쿠요",
+  "path": "Hyakkiyako/Tsukuyo",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Tsukuyo (Dress)",
+  "school": "Hyakkiyako",
+  "ko": "츠쿠요",
+  "path": "Hyakkiyako/Tsukuyo (Dress)",
+  "foot": 1,
+  "h": 61,
+  "w": 30
+ },
+ {
+  "id": "Umika",
+  "school": "Hyakkiyako",
+  "ko": "우미카",
+  "path": "Hyakkiyako/Umika",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Wakamo",
+  "school": "Hyakkiyako",
+  "ko": "와카모",
+  "path": "Hyakkiyako/Wakamo",
+  "foot": 1,
+  "h": 61,
+  "w": 39
+ },
+ {
+  "id": "Wakamo (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "와카모",
+  "path": "Hyakkiyako/Wakamo (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 48
+ },
+ {
+  "id": "Yukari",
+  "school": "Hyakkiyako",
+  "ko": "유카리",
+  "path": "Hyakkiyako/Yukari",
+  "foot": 9,
+  "h": 38,
+  "w": 28
+ },
+ {
+  "id": "Yukari (Swimsuit)",
+  "school": "Hyakkiyako",
+  "ko": "유카리",
+  "path": "Hyakkiyako/Yukari (Swimsuit)",
+  "foot": 1,
+  "h": 54,
+  "w": 34
+ },
+ {
+  "id": "Eri",
+  "school": "WildHunt",
+  "ko": "에리",
+  "path": "WildHunt/Eri",
+  "foot": 5,
+  "h": 49,
+  "w": 20
+ },
+ {
+  "id": "Fuyu",
+  "school": "WildHunt",
+  "ko": "후유",
+  "path": "WildHunt/Fuyu",
+  "foot": 1,
+  "h": 61,
+  "w": 23
+ },
+ {
+  "id": "Kanoe",
+  "school": "WildHunt",
+  "ko": "카노에",
+  "path": "WildHunt/Kanoe",
+  "foot": 1,
+  "h": 59,
+  "w": 36
+ },
+ {
+  "id": "Miyo",
+  "school": "WildHunt",
+  "ko": "미요",
+  "path": "WildHunt/Miyo",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Rena",
+  "school": "WildHunt",
+  "ko": "레나",
+  "path": "WildHunt/Rena",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Ritsu",
+  "school": "WildHunt",
+  "ko": "리츠",
+  "path": "WildHunt/Ritsu",
+  "foot": 1,
+  "h": 62,
+  "w": 26
+ },
+ {
+  "id": "Fubuki",
+  "school": "Valkyrie",
+  "ko": "후부키",
+  "path": "Valkyrie/Fubuki",
+  "foot": 1,
+  "h": 60,
+  "w": 34
+ },
+ {
+  "id": "Fubuki (Swimsuit)",
+  "school": "Valkyrie",
+  "ko": "후부키",
+  "path": "Valkyrie/Fubuki (Swimsuit)",
+  "foot": 1,
+  "h": 60,
+  "w": 36
+ },
+ {
+  "id": "Kanna",
+  "school": "Valkyrie",
+  "ko": "칸나",
+  "path": "Valkyrie/Kanna",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Kanna (Swimsuit)",
+  "school": "Valkyrie",
+  "ko": "칸나",
+  "path": "Valkyrie/Kanna (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 23
+ },
+ {
+  "id": "Kirino",
+  "school": "Valkyrie",
+  "ko": "키리노",
+  "path": "Valkyrie/Kirino",
+  "foot": 1,
+  "h": 60,
+  "w": 32
+ },
+ {
+  "id": "Kirino (Swimsuit)",
+  "school": "Valkyrie",
+  "ko": "키리노",
+  "path": "Valkyrie/Kirino (Swimsuit)",
+  "foot": 1,
+  "h": 55,
+  "w": 33
+ },
+ {
+  "id": "Konoka",
+  "school": "Valkyrie",
+  "ko": "코노카",
+  "path": "Valkyrie/Konoka",
+  "foot": 1,
+  "h": 61,
+  "w": 24
+ },
+ {
+  "id": "Hatsune Miku",
+  "school": "ETC",
+  "ko": "하츠네 미쿠",
+  "path": "ETC/Hatsune Miku",
+  "foot": 1,
+  "h": 61,
+  "w": 49
+ },
+ {
+  "id": "Kisaki",
+  "school": "Shanhaijing",
+  "ko": "키사키",
+  "path": "Shanhaijing/Kisaki",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Kisaki (Swimsuit)",
+  "school": "Shanhaijing",
+  "ko": "키사키",
+  "path": "Shanhaijing/Kisaki (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 28
+ },
+ {
+  "id": "Kokona",
+  "school": "Shanhaijing",
+  "ko": "코코나",
+  "path": "Shanhaijing/Kokona",
+  "foot": 1,
+  "h": 61,
+  "w": 43
+ },
+ {
+  "id": "Mina",
+  "school": "Shanhaijing",
+  "ko": "미나",
+  "path": "Shanhaijing/Mina",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Reijo",
+  "school": "Shanhaijing",
+  "ko": "레이죠",
+  "path": "Shanhaijing/Reijo",
+  "foot": 1,
+  "h": 60,
+  "w": 26
+ },
+ {
+  "id": "Rumi",
+  "school": "Shanhaijing",
+  "ko": "루미",
+  "path": "Shanhaijing/Rumi",
+  "foot": 1,
+  "h": 61,
+  "w": 29
+ },
+ {
+  "id": "Saya",
+  "school": "Shanhaijing",
+  "ko": "사야",
+  "path": "Shanhaijing/Saya",
+  "foot": 1,
+  "h": 61,
+  "w": 39
+ },
+ {
+  "id": "Saya (Casual)",
+  "school": "Shanhaijing",
+  "ko": "사야",
+  "path": "Shanhaijing/Saya (Casual)",
+  "foot": 1,
+  "h": 58,
+  "w": 38
+ },
+ {
+  "id": "Shun",
+  "school": "Shanhaijing",
+  "ko": "슌",
+  "path": "Shanhaijing/Shun",
+  "foot": 3,
+  "h": 57,
+  "w": 28
+ },
+ {
+  "id": "Shun (Kid)",
+  "school": "Shanhaijing",
+  "ko": "슌",
+  "path": "Shanhaijing/Shun (Kid)",
+  "foot": 1,
+  "h": 62,
+  "w": 30
+ },
+ {
+  "id": "Shun (Swimsuit) (1)",
+  "school": "Shanhaijing",
+  "ko": "슌",
+  "path": "Shanhaijing/Shun (Swimsuit) (1)",
+  "foot": 1,
+  "h": 61,
+  "w": 39
+ },
+ {
+  "id": "Shun (Swimsuit) (2)",
+  "school": "Shanhaijing",
+  "ko": "슌",
+  "path": "Shanhaijing/Shun (Swimsuit) (2)",
+  "foot": 2,
+  "h": 60,
+  "w": 32
+ },
+ {
+  "id": "Kurumi",
+  "school": "SRT",
+  "ko": "쿠루미",
+  "path": "SRT/Kurumi",
+  "foot": 1,
+  "h": 61,
+  "w": 32
+ },
+ {
+  "id": "Miyako",
+  "school": "SRT",
+  "ko": "미야코",
+  "path": "SRT/Miyako",
+  "foot": 1,
+  "h": 62,
+  "w": 28
+ },
+ {
+  "id": "Miyako (Swimsuit)",
+  "school": "SRT",
+  "ko": "미야코",
+  "path": "SRT/Miyako (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 31
+ },
+ {
+  "id": "Miyu",
+  "school": "SRT",
+  "ko": "미유",
+  "path": "SRT/Miyu",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Miyu (Swimsuit)",
+  "school": "SRT",
+  "ko": "미유",
+  "path": "SRT/Miyu (Swimsuit)",
+  "foot": 1,
+  "h": 61,
+  "w": 35
+ },
+ {
+  "id": "Moe",
+  "school": "SRT",
+  "ko": "모에",
+  "path": "SRT/Moe",
+  "foot": 1,
+  "h": 61,
+  "w": 27
+ },
+ {
+  "id": "Moe (Swimsuit)",
+  "school": "SRT",
+  "ko": "모에",
+  "path": "SRT/Moe (Swimsuit)",
+  "foot": 1,
+  "h": 59,
+  "w": 30
+ },
+ {
+  "id": "Niko",
+  "school": "SRT",
+  "ko": "니코",
+  "path": "SRT/Niko",
+  "foot": 1,
+  "h": 61,
+  "w": 26
+ },
+ {
+  "id": "Otogi",
+  "school": "SRT",
+  "ko": "오토기",
+  "path": "SRT/Otogi",
+  "foot": 1,
+  "h": 60,
+  "w": 30
+ },
+ {
+  "id": "Saki",
+  "school": "SRT",
+  "ko": "사키",
+  "path": "SRT/Saki",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ },
+ {
+  "id": "Saki (Swimsuit)",
+  "school": "SRT",
+  "ko": "사키",
+  "path": "SRT/Saki (Swimsuit)",
+  "foot": 1,
+  "h": 62,
+  "w": 29
+ },
+ {
+  "id": "Misaka Mikoto",
+  "school": "Tokiwadai",
+  "ko": "미사카 미코토",
+  "path": "Tokiwadai/Misaka Mikoto",
+  "foot": 1,
+  "h": 61,
+  "w": 23
+ },
+ {
+  "id": "Shokuhou Misaki",
+  "school": "Tokiwadai",
+  "ko": "쇼쿠호 미사키",
+  "path": "Tokiwadai/Shokuhou Misaki",
+  "foot": 1,
+  "h": 61,
+  "w": 33
+ },
+ {
+  "id": "Saten Ruiko",
+  "school": "Sakugawa",
+  "ko": "사텐 루이코",
+  "path": "Sakugawa/Saten Ruiko",
+  "foot": 1,
+  "h": 61,
+  "w": 25
+ }
+]

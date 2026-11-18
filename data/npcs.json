@@ -1,0 +1,3131 @@
+[
+ {
+  "id": 10001,
+  "model": "Nagisa",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   102,
+   104,
+   300,
+   307,
+   400
+  ]
+ },
+ {
+  "id": 10002,
+  "model": "Mika",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 9,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   104,
+   108,
+   300,
+   301,
+   302,
+   304,
+   306,
+   402
+  ]
+ },
+ {
+  "id": 10003,
+  "model": "Seia",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 8,
+   "risk": 3,
+   "activity": 3
+  },
+  "acts": [
+   0,
+   1,
+   6,
+   7,
+   102,
+   300,
+   307,
+   400,
+   401,
+   404,
+   406
+  ]
+ },
+ {
+  "id": 10004,
+  "model": "Hinata",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 8,
+   "curiosity": 5,
+   "risk": 3,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   102,
+   206,
+   300,
+   306,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 10005,
+  "model": "Mari",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   102,
+   300,
+   306,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 10006,
+  "model": "Sakurako",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 2,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   102,
+   300,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 10007,
+  "model": "Koharu",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 7,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   101,
+   206,
+   300,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 10008,
+  "model": "Hanako",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 8,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   100,
+   102,
+   104,
+   300,
+   301,
+   302,
+   304,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 10009,
+  "model": "Hifumi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 2,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   102,
+   104,
+   300,
+   302,
+   306,
+   307,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 10010,
+  "model": "Azusa",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   5,
+   6,
+   101,
+   206,
+   300,
+   303,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 10011,
+  "model": "Serina",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 5,
+   "risk": 3,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   101,
+   206,
+   300,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 10012,
+  "model": "Hanae",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   3,
+   4,
+   6,
+   8,
+   100,
+   103,
+   108,
+   300,
+   302,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 10013,
+  "model": "Mine",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   100,
+   102,
+   200,
+   206,
+   303,
+   307,
+   400,
+   407
+  ]
+ },
+ {
+  "id": 10014,
+  "model": "Hasumi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   102,
+   202,
+   206,
+   300,
+   303,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 10015,
+  "model": "Mashiro",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 7,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   103,
+   108,
+   300,
+   301,
+   303,
+   306,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 10016,
+  "model": "Tsurugi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 5,
+   "risk": 8,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   200,
+   206,
+   301,
+   302,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 10017,
+  "model": "Ichika",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   202,
+   206,
+   300,
+   303,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 10018,
+  "model": "Ui",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 8,
+   "risk": 2,
+   "activity": 3
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   100,
+   102,
+   103,
+   108,
+   300,
+   302,
+   307,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 10019,
+  "model": "Shimiko",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 3,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   102,
+   300,
+   305,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 10020,
+  "model": "Reisa",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   7,
+   202,
+   206,
+   300,
+   303,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 10021,
+  "model": "Suzumi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   200,
+   206,
+   301,
+   302,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 10023,
+  "model": "Kazusa",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   104,
+   106,
+   108,
+   300,
+   302,
+   308,
+   402,
+   406
+  ]
+ },
+ {
+  "id": 10024,
+  "model": "Yoshimi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   102,
+   104,
+   300,
+   302,
+   307,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 10025,
+  "model": "Natsu",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   108,
+   300,
+   302,
+   306,
+   401,
+   403,
+   404,
+   406
+  ]
+ },
+ {
+  "id": 10026,
+  "model": "Airi",
+  "school": "Trinity",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   103,
+   104,
+   108,
+   300,
+   302,
+   308,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 11001,
+  "model": "Hina",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 8,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   6,
+   303,
+   306,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11002,
+  "model": "Ako",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   101,
+   102,
+   104,
+   300,
+   307,
+   400,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 11003,
+  "model": "Iori",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 8,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   104,
+   300,
+   301,
+   303,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 11004,
+  "model": "Chinatsu",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   101,
+   102,
+   300,
+   306,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11005,
+  "model": "Aru",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 6,
+   "risk": 8,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   104,
+   105,
+   300,
+   301,
+   302,
+   304,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 11006,
+  "model": "Kayoko",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   300,
+   306,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 11007,
+  "model": "Haruka",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 7,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   106,
+   300,
+   301,
+   304,
+   307,
+   402,
+   406,
+   408
+  ]
+ },
+ {
+  "id": 11008,
+  "model": "Mutsuki",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 8,
+   "risk": 9,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   105,
+   106,
+   300,
+   301,
+   302,
+   305,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 11009,
+  "model": "Haruna",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   100,
+   103,
+   104,
+   108,
+   300,
+   302,
+   307,
+   401
+  ]
+ },
+ {
+  "id": 11010,
+  "model": "Izumi",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   103,
+   108,
+   300,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11011,
+  "model": "Akari",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   100,
+   103,
+   108,
+   300,
+   302,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 11012,
+  "model": "Junko",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   103,
+   108,
+   300,
+   302,
+   303,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 11013,
+  "model": "Makoto",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 7,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   7,
+   102,
+   300,
+   302,
+   306,
+   307,
+   401
+  ]
+ },
+ {
+  "id": 11014,
+  "model": "Satsuki",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 7,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   301,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11015,
+  "model": "Ibuki",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 5,
+   "risk": 7,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   108,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11016,
+  "model": "Iroha",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   102,
+   300,
+   302,
+   305,
+   306,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 11017,
+  "model": "Chiaki",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   300,
+   303,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 11018,
+  "model": "Sena",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   101,
+   102,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 11019,
+  "model": "Fuuka",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   103,
+   108,
+   201,
+   300,
+   302,
+   306,
+   401,
+   404
+  ]
+ },
+ {
+  "id": 11020,
+  "model": "Juri",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   103,
+   108,
+   200,
+   201,
+   300,
+   302,
+   303,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 11021,
+  "model": "Kirara",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   8,
+   100,
+   102,
+   104,
+   106,
+   300,
+   302,
+   304,
+   307,
+   308,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 11022,
+  "model": "Megu",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   7,
+   101,
+   104,
+   206,
+   300,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 11023,
+  "model": "Kasumi",
+  "school": "Gehenna",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   101,
+   102,
+   300,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 12001,
+  "model": "Yuuka",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 8,
+   "risk": 3,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   7,
+   100,
+   102,
+   204,
+   300,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 12002,
+  "model": "Noa",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   102,
+   300,
+   306,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 12003,
+  "model": "Rio",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 9,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   7,
+   8,
+   100,
+   106,
+   301,
+   302,
+   307
+  ]
+ },
+ {
+  "id": 12004,
+  "model": "Koyuki",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 3,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   102,
+   300,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 12005,
+  "model": "Arisu",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 9,
+   "risk": 4,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   100,
+   106,
+   108,
+   300,
+   301,
+   302,
+   306,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 12006,
+  "model": "Yuzu",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 8,
+   "risk": 3,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   102,
+   106,
+   107,
+   300,
+   302,
+   307,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 12007,
+  "model": "Momoi",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 7,
+   "risk": 6,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   106,
+   107,
+   300,
+   301,
+   302,
+   304,
+   308,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 12008,
+  "model": "Midori",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   102,
+   106,
+   107,
+   300,
+   301,
+   302,
+   307,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 12009,
+  "model": "Himari",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 9,
+   "risk": 7,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   5,
+   6,
+   7,
+   106,
+   107,
+   300,
+   302,
+   307,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 12010,
+  "model": "Hare",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 8,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   100,
+   102,
+   108,
+   208,
+   300,
+   302,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 12011,
+  "model": "Chihiro",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 8,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   100,
+   108,
+   300,
+   302,
+   304,
+   306,
+   402
+  ]
+ },
+ {
+  "id": 12012,
+  "model": "Maki",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   102,
+   300,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 12013,
+  "model": "Kotama",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   102,
+   300,
+   302,
+   306,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 12014,
+  "model": "Asuna",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 7,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   303,
+   306,
+   207,
+   300,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 12015,
+  "model": "Neru",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 8,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   105,
+   106,
+   207,
+   301,
+   302,
+   303
+  ]
+ },
+ {
+  "id": 12016,
+  "model": "Karin",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 7,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   104,
+   300,
+   302,
+   303,
+   304,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 12017,
+  "model": "Akane",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   3,
+   4,
+   6,
+   100,
+   103,
+   108,
+   202,
+   206,
+   300,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 12018,
+  "model": "Toki",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   303,
+   306,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 12019,
+  "model": "Hibiki",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 8,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   7,
+   8,
+   100,
+   106,
+   301,
+   302
+  ]
+ },
+ {
+  "id": 12020,
+  "model": "Utaha",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   7,
+   100,
+   104,
+   105,
+   106,
+   107,
+   202,
+   208,
+   300,
+   302
+  ]
+ },
+ {
+  "id": 12021,
+  "model": "Kotori",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 3,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   100,
+   300,
+   306,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 12022,
+  "model": "Rei",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   102,
+   204,
+   303,
+   306,
+   307,
+   400,
+   407
+  ]
+ },
+ {
+  "id": 12023,
+  "model": "Sumire",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   7,
+   100,
+   106,
+   301,
+   302,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 12024,
+  "model": "Eimi",
+  "school": "Millennium",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 8,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   102,
+   207,
+   302,
+   303,
+   305,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 13001,
+  "model": "Hoshino",
+  "school": "Abydos",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 4,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   300,
+   306,
+   400,
+   401,
+   403,
+   404,
+   405,
+   406
+  ]
+ },
+ {
+  "id": 13002,
+  "model": "Shiroko",
+  "school": "Abydos",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   100,
+   200,
+   202,
+   207,
+   300,
+   303,
+   306,
+   401
+  ]
+ },
+ {
+  "id": 13003,
+  "model": "Serika",
+  "school": "Abydos",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   1,
+   6,
+   100,
+   103,
+   200,
+   201,
+   202,
+   203,
+   205,
+   208,
+   300
+  ]
+ },
+ {
+  "id": 13004,
+  "model": "Nonomi",
+  "school": "Abydos",
+  "traits": {
+   "sociability": 8,
+   "curiosity": 5,
+   "risk": 3,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   100,
+   103,
+   104,
+   108,
+   206,
+   300,
+   302,
+   306,
+   307,
+   401
+  ]
+ },
+ {
+  "id": 13005,
+  "model": "Ayane",
+  "school": "Abydos",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 8,
+   "risk": 2,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   102,
+   106,
+   107,
+   307,
+   402,
+   408
+  ]
+ },
+ {
+  "id": 14001,
+  "model": "Izuna",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 6,
+   "activity": 8
+  },
+  "acts": [
+   2,
+   3,
+   4,
+   6,
+   301,
+   302,
+   303,
+   306,
+   407
+  ]
+ },
+ {
+  "id": 14002,
+  "model": "Tsukuyo",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   102,
+   300,
+   306,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 14003,
+  "model": "Michiru",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   2,
+   4,
+   6,
+   8,
+   100,
+   108,
+   301,
+   302,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 14004,
+  "model": "Niya",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   100,
+   102,
+   105,
+   202,
+   207,
+   300,
+   302,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 14005,
+  "model": "Chise",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 8,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   103,
+   104,
+   106,
+   202,
+   208,
+   300,
+   302
+  ]
+ },
+ {
+  "id": 14006,
+  "model": "Kaho",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   108,
+   206,
+   208,
+   300,
+   306,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 14007,
+  "model": "Tsubaki",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   303,
+   306,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 14008,
+  "model": "Mimori",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   102,
+   300,
+   306,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 14009,
+  "model": "Kaede",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   2,
+   3,
+   4,
+   6,
+   100,
+   301,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 14010,
+  "model": "Wakamo",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 7,
+   "risk": 9,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   104,
+   105,
+   300,
+   303,
+   305,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 14011,
+  "model": "Yukari",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   8,
+   102,
+   104,
+   300,
+   302,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 14012,
+  "model": "Renge",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   300,
+   306,
+   307,
+   400,
+   403,
+   404,
+   406
+  ]
+ },
+ {
+  "id": 14013,
+  "model": "Kikyou",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   100,
+   108,
+   300,
+   302,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 14014,
+  "model": "Nagusa",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   3,
+   4,
+   6,
+   100,
+   102,
+   202,
+   206,
+   300,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 14015,
+  "model": "Umika",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   103,
+   108,
+   300,
+   302,
+   303,
+   306,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 14016,
+  "model": "Shizuko",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   201,
+   206,
+   303,
+   306,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 14017,
+  "model": "Pina",
+  "school": "Hyakkiyako",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   2,
+   4,
+   6,
+   8,
+   100,
+   103,
+   108,
+   301,
+   302,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 15001,
+  "model": "Saya",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   7,
+   102,
+   300,
+   302,
+   303,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 15002,
+  "model": "Shun",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 7,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   102,
+   105,
+   207,
+   300,
+   302,
+   303,
+   305,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 15003,
+  "model": "Kisaki",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   3,
+   4,
+   6,
+   100,
+   104,
+   105,
+   207,
+   300,
+   306,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 15004,
+  "model": "Reijo",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   6,
+   100,
+   102,
+   103,
+   104,
+   106,
+   202,
+   208,
+   300,
+   307
+  ]
+ },
+ {
+  "id": 15005,
+  "model": "Rumi",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   103,
+   104,
+   108,
+   202,
+   208,
+   300,
+   303,
+   306,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 15006,
+  "model": "Kokona",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 7,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   8,
+   100,
+   108,
+   300,
+   302,
+   303,
+   306,
+   401,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 15007,
+  "model": "Mina",
+  "school": "Shanhaijing",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   6,
+   100,
+   102,
+   202,
+   207,
+   300,
+   303,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 16001,
+  "model": "Cherino",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 8,
+   "activity": 8
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   102,
+   104,
+   300,
+   302,
+   306,
+   308,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 16002,
+  "model": "Marina",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   100,
+   102,
+   202,
+   300,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 16003,
+  "model": "Tomoe",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   201,
+   206,
+   300,
+   303,
+   306,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 16004,
+  "model": "Shigure",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   5,
+   6,
+   100,
+   104,
+   202,
+   300,
+   302,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 16005,
+  "model": "Nodoka",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   4,
+   6,
+   100,
+   108,
+   300,
+   306,
+   401,
+   403,
+   404,
+   406
+  ]
+ },
+ {
+  "id": 16006,
+  "model": "Minori",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   200,
+   201,
+   202,
+   207,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 16007,
+  "model": "Momiji",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 7,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   5,
+   6,
+   7,
+   102,
+   300,
+   306,
+   307,
+   308,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 16008,
+  "model": "Meru",
+  "school": "RedWinter",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   8,
+   102,
+   104,
+   300,
+   302,
+   306,
+   307,
+   308,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 17001,
+  "model": "Kanna",
+  "school": "Valkyrie",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 7
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   102,
+   200,
+   202,
+   206,
+   300,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 17002,
+  "model": "Fubuki",
+  "school": "Valkyrie",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   200,
+   202,
+   206,
+   303,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 17003,
+  "model": "Kirino",
+  "school": "Valkyrie",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   200,
+   202,
+   206,
+   300,
+   303,
+   306,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 18001,
+  "model": "Saori",
+  "school": "Arius",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 5,
+   "risk": 8,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   5,
+   6,
+   200,
+   205,
+   207,
+   303,
+   305,
+   400,
+   407
+  ]
+ },
+ {
+  "id": 18002,
+  "model": "Hiyori",
+  "school": "Arius",
+  "traits": {
+   "sociability": 4,
+   "curiosity": 5,
+   "risk": 6,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   5,
+   6,
+   202,
+   207,
+   303,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 18003,
+  "model": "Misaki",
+  "school": "Arius",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 7,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   200,
+   205,
+   207,
+   301,
+   303,
+   305,
+   402,
+   407,
+   408
+  ]
+ },
+ {
+  "id": 18004,
+  "model": "Atsuko",
+  "school": "Arius",
+  "traits": {
+   "sociability": 3,
+   "curiosity": 5,
+   "risk": 5,
+   "activity": 4
+  },
+  "acts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   100,
+   300,
+   306,
+   307,
+   400,
+   401,
+   404,
+   406
+  ]
+ },
+ {
+  "id": 19001,
+  "model": "Miyako",
+  "school": "SRT",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 6,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   2,
+   3,
+   4,
+   6,
+   100,
+   207,
+   300,
+   303,
+   306,
+   307,
+   400,
+   401,
+   407
+  ]
+ },
+ {
+  "id": 19002,
+  "model": "Saki",
+  "school": "SRT",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   4,
+   6,
+   7,
+   100,
+   102,
+   207,
+   300,
+   302,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 19003,
+  "model": "Miyu",
+  "school": "SRT",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 5,
+   "risk": 4,
+   "activity": 5
+  },
+  "acts": [
+   0,
+   2,
+   4,
+   6,
+   100,
+   108,
+   206,
+   207,
+   300,
+   303,
+   306,
+   308,
+   401,
+   402,
+   407
+  ]
+ },
+ {
+  "id": 19004,
+  "model": "Moe",
+  "school": "SRT",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   100,
+   202,
+   206,
+   300,
+   306,
+   307,
+   400,
+   401,
+   406
+  ]
+ },
+ {
+  "id": 99001,
+  "model": "Hikari",
+  "school": "Highlander",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   102,
+   202,
+   207,
+   300,
+   303,
+   305,
+   307,
+   400,
+   401
+  ]
+ },
+ {
+  "id": 99002,
+  "model": "Nozomi",
+  "school": "Highlander",
+  "traits": {
+   "sociability": 6,
+   "curiosity": 7,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   2,
+   6,
+   7,
+   100,
+   102,
+   200,
+   202,
+   207,
+   300,
+   301,
+   303,
+   305,
+   401,
+   402
+  ]
+ },
+ {
+  "id": 99003,
+  "model": "Aoba",
+  "school": "Highlander",
+  "traits": {
+   "sociability": 5,
+   "curiosity": 6,
+   "risk": 5,
+   "activity": 6
+  },
+  "acts": [
+   0,
+   1,
+   6,
+   100,
+   102,
+   200,
+   201,
+   202,
+   203,
+   208,
+   300,
+   307,
+   401,
+   406
+  ]
+ }
+]

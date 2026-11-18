@@ -1,0 +1,1607 @@
+{
+ "regions": [
+  {
+   "id": "du",
+   "node": [
+    160,
+    92
+   ],
+   "arrival": {
+    "place": "du/shiratori/station",
+    "at": "arrive"
+   },
+   "districts": [
+    {
+     "id": "du/shiratori",
+     "places": [
+      {
+       "id": "du/shiratori/square",
+       "map": "du/shiratori/square.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/shiratori/station",
+       "map": "du/shiratori/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "du/shiratori/lostfound",
+       "map": "du/shiratori/lostfound.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ],
+       "when": "letter_lostfound"
+      },
+      {
+       "id": "du/shiratori/park",
+       "map": "du/shiratori/park.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/shiratori/port",
+       "map": "du/shiratori/port.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/shiratori/lighthouse",
+       "map": "du/shiratori/lighthouse.tmj",
+       "outdoor": false,
+       "hosts": [],
+       "when": "wonders_lighthouse"
+      }
+     ]
+    },
+    {
+     "id": "du/schale",
+     "places": [
+      {
+       "id": "du/schale/hall",
+       "map": "du/schale/hall.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "du/schale/office",
+       "map": "du/schale/office.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "du/schale/library",
+       "map": "du/schale/library.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "du/schale/training",
+       "map": "du/schale/training.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "du/schale/lounge",
+       "map": "du/schale/lounge.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "du/schale/cafeteria",
+       "map": "du/schale/cafeteria.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      },
+      {
+       "id": "du/schale/store",
+       "map": "du/schale/store.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "du/haruhabara",
+     "places": [
+      {
+       "id": "du/haruhabara/street",
+       "map": "du/haruhabara/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/haruhabara/maidcafe",
+       "map": "du/haruhabara/maidcafe.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work",
+        "cafe"
+       ]
+      },
+      {
+       "id": "du/haruhabara/media",
+       "map": "du/haruhabara/media.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "du/haruhabara/lot",
+       "map": "du/haruhabara/lot.tmj",
+       "outdoor": true,
+       "hosts": [
+        "cafe",
+        "outdoor"
+       ],
+       "when": "band_open"
+      }
+     ]
+    },
+    {
+     "id": "du/coast",
+     "places": [
+      {
+       "id": "du/coast/beach",
+       "map": "du/coast/beach.tmj",
+       "outdoor": true,
+       "hosts": [
+        "cafe",
+        "shop",
+        "gym",
+        "work",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/coast/fairground",
+       "map": "du/coast/fairground.tmj",
+       "outdoor": true,
+       "hosts": [
+        "shop",
+        "gym",
+        "cafe",
+        "work",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/coast/festival",
+       "map": "du/coast/festival.tmj",
+       "outdoor": true,
+       "hosts": [
+        "cafe",
+        "shop",
+        "outdoor"
+       ],
+       "when": "band_fest"
+      }
+     ]
+    },
+    {
+     "id": "du/federal",
+     "places": [
+      {
+       "id": "du/federal/plaza",
+       "map": "du/federal/plaza.tmj",
+       "outdoor": true,
+       "hosts": [
+        "shop",
+        "work",
+        "cafe",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/federal/arena",
+       "map": "du/federal/arena.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym",
+        "work",
+        "cafe"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "du/blackmarket",
+     "places": [
+      {
+       "id": "du/blackmarket/market",
+       "map": "du/blackmarket/market.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ],
+       "when": "debt_market"
+      },
+      {
+       "id": "du/blackmarket/auction",
+       "map": "du/blackmarket/auction.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe",
+        "shop"
+       ],
+       "when": "debt_auction"
+      }
+     ]
+    },
+    {
+     "id": "du/backstreet",
+     "places": [
+      {
+       "id": "du/backstreet/alley",
+       "map": "du/backstreet/alley.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "du/backstreet/lot",
+       "map": "du/backstreet/lot.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "turf_lot"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abydos",
+   "node": [
+    252,
+    118
+   ],
+   "arrival": {
+    "place": "abydos/city/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "abydos/city/room",
+    "at": "street"
+   },
+   "districts": [
+    {
+     "id": "abydos/school",
+     "places": [
+      {
+       "id": "abydos/school/classroom",
+       "map": "abydos/school/classroom.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "abydos/school/library",
+       "map": "abydos/school/library.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "abydos/school/hall",
+       "map": "abydos/school/hall.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "abydos/school/gym",
+       "map": "abydos/school/gym.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "abydos/school/yard",
+       "map": "abydos/school/yard.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "abydos/school/gate",
+       "map": "abydos/school/gate.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "abydos/city",
+     "places": [
+      {
+       "id": "abydos/city/street",
+       "map": "abydos/city/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "abydos/city/ramen",
+       "map": "abydos/city/ramen.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe",
+        "work"
+       ]
+      },
+      {
+       "id": "abydos/city/store",
+       "map": "abydos/city/store.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "abydos/city/room",
+       "map": "abydos/city/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "abydos/city/station",
+       "map": "abydos/city/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "abydos/desert",
+     "places": [
+      {
+       "id": "abydos/desert/border",
+       "map": "abydos/desert/border.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "abydos/desert/buried",
+       "map": "abydos/desert/buried.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "abydos/desert/ruins",
+       "map": "abydos/desert/ruins.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "desert_ruins"
+      },
+      {
+       "id": "abydos/desert/oldtown",
+       "map": "abydos/desert/oldtown.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "line_abydos_oldtown"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gehenna",
+   "node": [
+    92,
+    136
+   ],
+   "arrival": {
+    "place": "gehenna/town/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "gehenna/town/room",
+    "at": "lawn"
+   },
+   "districts": [
+    {
+     "id": "gehenna/academy",
+     "places": [
+      {
+       "id": "gehenna/academy/grounds",
+       "map": "gehenna/academy/grounds.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "gehenna/academy/hall",
+       "map": "gehenna/academy/hall.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "gehenna/academy/classroom",
+       "map": "gehenna/academy/classroom.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "gehenna/academy/stadium",
+       "map": "gehenna/academy/stadium.tmj",
+       "outdoor": true,
+       "hosts": [
+        "gym",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "gehenna/academy/clubhouse",
+       "map": "gehenna/academy/clubhouse.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "gehenna/academy/prefect",
+       "map": "gehenna/academy/prefect.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "gehenna/town",
+     "places": [
+      {
+       "id": "gehenna/town/lawn",
+       "map": "gehenna/town/lawn.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "gehenna/town/station",
+       "map": "gehenna/town/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "gehenna/town/cafeteria",
+       "map": "gehenna/town/cafeteria.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "gehenna/town/shop",
+       "map": "gehenna/town/shop.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "gehenna/town/room",
+       "map": "gehenna/town/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "gehenna/ruins",
+     "places": [
+      {
+       "id": "gehenna/ruins/front",
+       "map": "gehenna/ruins/front.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "gehenna/ruins/inside",
+       "map": "gehenna/ruins/inside.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trinity",
+   "node": [
+    96,
+    52
+   ],
+   "arrival": {
+    "place": "trinity/town/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "trinity/town/room",
+    "at": "street"
+   },
+   "districts": [
+    {
+     "id": "trinity/academy",
+     "places": [
+      {
+       "id": "trinity/academy/square",
+       "map": "trinity/academy/square.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "trinity/academy/hall",
+       "map": "trinity/academy/hall.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "trinity/academy/classroom",
+       "map": "trinity/academy/classroom.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "trinity/academy/library",
+       "map": "trinity/academy/library.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "trinity/academy/gym",
+       "map": "trinity/academy/gym.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "trinity/academy/clubhall",
+       "map": "trinity/academy/clubhall.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "trinity/culture",
+     "places": [
+      {
+       "id": "trinity/culture/garden",
+       "map": "trinity/culture/garden.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "trinity/culture/cathedral",
+       "map": "trinity/culture/cathedral.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "trinity/culture/museum",
+       "map": "trinity/culture/museum.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "trinity/culture/concert",
+       "map": "trinity/culture/concert.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "trinity/town",
+     "places": [
+      {
+       "id": "trinity/town/street",
+       "map": "trinity/town/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "trinity/town/station",
+       "map": "trinity/town/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "trinity/town/cafe",
+       "map": "trinity/town/cafe.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work",
+        "cafe"
+       ]
+      },
+      {
+       "id": "trinity/town/shop",
+       "map": "trinity/town/shop.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "trinity/town/room",
+       "map": "trinity/town/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "millennium",
+   "node": [
+    226,
+    46
+   ],
+   "arrival": {
+    "place": "millennium/campus/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "millennium/living/room",
+    "at": "street"
+   },
+   "districts": [
+    {
+     "id": "millennium/tower",
+     "places": [
+      {
+       "id": "millennium/tower/lobby",
+       "map": "millennium/tower/lobby.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "millennium/tower/lab",
+       "map": "millennium/tower/lab.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "millennium/tower/datacenter",
+       "map": "millennium/tower/datacenter.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      },
+      {
+       "id": "millennium/tower/library",
+       "map": "millennium/tower/library.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "millennium/campus",
+     "places": [
+      {
+       "id": "millennium/campus/avenue",
+       "map": "millennium/campus/avenue.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "millennium/campus/station",
+       "map": "millennium/campus/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "millennium/campus/store",
+       "map": "millennium/campus/store.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "millennium/campus/fitness",
+       "map": "millennium/campus/fitness.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "millennium/campus/power",
+       "map": "millennium/campus/power.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "millennium/campus/junkyard",
+       "map": "millennium/campus/junkyard.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "robot_yard"
+      },
+      {
+       "id": "millennium/campus/arena",
+       "map": "millennium/campus/arena.tmj",
+       "outdoor": false,
+       "hosts": [],
+       "when": "robot_arena"
+      }
+     ]
+    },
+    {
+     "id": "millennium/living",
+     "places": [
+      {
+       "id": "millennium/living/street",
+       "map": "millennium/living/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "millennium/living/cafe",
+       "map": "millennium/living/cafe.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "millennium/living/room",
+       "map": "millennium/living/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hyakkiyako",
+   "node": [
+    44,
+    92
+   ],
+   "arrival": {
+    "place": "hyakkiyako/shopping/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "hyakkiyako/shopping/inn",
+    "at": "street"
+   },
+   "districts": [
+    {
+     "id": "hyakkiyako/central",
+     "places": [
+      {
+       "id": "hyakkiyako/central/plaza",
+       "map": "hyakkiyako/central/plaza.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "hyakkiyako/central/onmyo",
+       "map": "hyakkiyako/central/onmyo.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "hyakkiyako/central/stage",
+       "map": "hyakkiyako/central/stage.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "hyakkiyako/central/museum",
+       "map": "hyakkiyako/central/museum.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hyakkiyako/shopping",
+     "places": [
+      {
+       "id": "hyakkiyako/shopping/street",
+       "map": "hyakkiyako/shopping/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "hyakkiyako/shopping/station",
+       "map": "hyakkiyako/shopping/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "hyakkiyako/shopping/teahouse",
+       "map": "hyakkiyako/shopping/teahouse.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      },
+      {
+       "id": "hyakkiyako/shopping/goods",
+       "map": "hyakkiyako/shopping/goods.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "hyakkiyako/shopping/inn",
+       "map": "hyakkiyako/shopping/inn.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "hyakkiyako/garden",
+     "places": [
+      {
+       "id": "hyakkiyako/garden/garden",
+       "map": "hyakkiyako/garden/garden.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "hyakkiyako/garden/lookout",
+       "map": "hyakkiyako/garden/lookout.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "hyakkiyako/garden/dojo",
+       "map": "hyakkiyako/garden/dojo.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "hyakkiyako/garden/oldpath",
+       "map": "hyakkiyako/garden/oldpath.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "line_hyakkiyako_oldpath"
+      }
+     ]
+    },
+    {
+     "id": "hyakkiyako/shrine",
+     "places": [
+      {
+       "id": "hyakkiyako/shrine/approach",
+       "map": "hyakkiyako/shrine/approach.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "foxrain_path"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shanhaijing",
+   "node": [
+    278,
+    70
+   ],
+   "arrival": {
+    "place": "shanhaijing/town/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "shanhaijing/town/lodging",
+    "at": "street"
+   },
+   "districts": [
+    {
+     "id": "shanhaijing/plum",
+     "places": [
+      {
+       "id": "shanhaijing/plum/court",
+       "map": "shanhaijing/plum/court.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "shanhaijing/plum/hall",
+       "map": "shanhaijing/plum/hall.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "shanhaijing/plum/pavilion",
+       "map": "shanhaijing/plum/pavilion.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "shanhaijing/plum/alchemy",
+       "map": "shanhaijing/plum/alchemy.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      },
+      {
+       "id": "shanhaijing/plum/martial",
+       "map": "shanhaijing/plum/martial.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "shanhaijing/town",
+     "places": [
+      {
+       "id": "shanhaijing/town/street",
+       "map": "shanhaijing/town/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "shanhaijing/town/station",
+       "map": "shanhaijing/town/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "shanhaijing/town/store",
+       "map": "shanhaijing/town/store.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "shanhaijing/town/teahouse",
+       "map": "shanhaijing/town/teahouse.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "shanhaijing/town/lodging",
+       "map": "shanhaijing/town/lodging.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "shanhaijing/park",
+     "places": [
+      {
+       "id": "shanhaijing/park/baihu",
+       "map": "shanhaijing/park/baihu.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "shanhaijing/park/peach",
+       "map": "shanhaijing/park/peach.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "shanhaijing/park/bamboo",
+       "map": "shanhaijing/park/bamboo.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "redwinter",
+   "node": [
+    160,
+    22
+   ],
+   "arrival": {
+    "place": "redwinter/square/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "redwinter/dorms/room",
+    "at": "front"
+   },
+   "districts": [
+    {
+     "id": "redwinter/academy",
+     "places": [
+      {
+       "id": "redwinter/academy/office",
+       "map": "redwinter/academy/office.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "redwinter/academy/affairs",
+       "map": "redwinter/academy/affairs.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "redwinter/academy/gym",
+       "map": "redwinter/academy/gym.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "redwinter/academy/broadcast",
+       "map": "redwinter/academy/broadcast.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "redwinter/square",
+     "places": [
+      {
+       "id": "redwinter/square/plaza",
+       "map": "redwinter/square/plaza.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "redwinter/square/station",
+       "map": "redwinter/square/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "redwinter/square/market",
+       "map": "redwinter/square/market.tmj",
+       "outdoor": true,
+       "hosts": [
+        "shop",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "redwinter/square/canteen",
+       "map": "redwinter/square/canteen.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      },
+      {
+       "id": "redwinter/square/parade",
+       "map": "redwinter/square/parade.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ],
+       "when": "revolution_parade"
+      }
+     ]
+    },
+    {
+     "id": "redwinter/dorms",
+     "places": [
+      {
+       "id": "redwinter/dorms/front",
+       "map": "redwinter/dorms/front.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "redwinter/dorms/room",
+       "map": "redwinter/dorms/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "redwinter/dorms/warehouse",
+       "map": "redwinter/dorms/warehouse.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "redwinter/dorms/forest",
+       "map": "redwinter/dorms/forest.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "valkyrie",
+   "node": [
+    184,
+    120
+   ],
+   "arrival": {
+    "place": "valkyrie/town/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "valkyrie/town/room",
+    "at": "out"
+   },
+   "districts": [
+    {
+     "id": "valkyrie/academy",
+     "places": [
+      {
+       "id": "valkyrie/academy/gate",
+       "map": "valkyrie/academy/gate.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "valkyrie/academy/drill",
+       "map": "valkyrie/academy/drill.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "valkyrie/academy/hall",
+       "map": "valkyrie/academy/hall.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "valkyrie/academy/classroom",
+       "map": "valkyrie/academy/classroom.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "valkyrie/academy/range",
+       "map": "valkyrie/academy/range.tmj",
+       "outdoor": false,
+       "hosts": [
+        "gym"
+       ]
+      },
+      {
+       "id": "valkyrie/academy/archive",
+       "map": "valkyrie/academy/archive.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "valkyrie/town",
+     "places": [
+      {
+       "id": "valkyrie/town/street",
+       "map": "valkyrie/town/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "valkyrie/town/station",
+       "map": "valkyrie/town/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "valkyrie/town/snackbar",
+       "map": "valkyrie/town/snackbar.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work",
+        "cafe"
+       ]
+      },
+      {
+       "id": "valkyrie/town/store",
+       "map": "valkyrie/town/store.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "valkyrie/town/room",
+       "map": "valkyrie/town/room.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "valkyrie/town/cinema",
+       "map": "valkyrie/town/cinema.tmj",
+       "outdoor": false,
+       "hosts": [],
+       "when": "film_cinema"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "srt",
+   "node": [
+    132,
+    112
+   ],
+   "arrival": {
+    "place": "srt/town/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "srt/park/tent",
+    "at": "out"
+   },
+   "districts": [
+    {
+     "id": "srt/campus",
+     "places": [
+      {
+       "id": "srt/campus/gate",
+       "map": "srt/campus/gate.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "srt/campus/training",
+       "map": "srt/campus/training.tmj",
+       "outdoor": true,
+       "hosts": [
+        "gym",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "srt/campus/lecture",
+       "map": "srt/campus/lecture.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "srt/park",
+     "places": [
+      {
+       "id": "srt/park/park",
+       "map": "srt/park/park.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "srt/park/camp",
+       "map": "srt/park/camp.tmj",
+       "outdoor": true,
+       "hosts": [
+        "work",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "srt/park/kiosk",
+       "map": "srt/park/kiosk.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "srt/park/tent",
+       "map": "srt/park/tent.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "srt/town",
+     "places": [
+      {
+       "id": "srt/town/street",
+       "map": "srt/town/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "srt/town/station",
+       "map": "srt/town/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "srt/town/library",
+       "map": "srt/town/library.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "srt/town/cafe",
+       "map": "srt/town/cafe.tmj",
+       "outdoor": false,
+       "hosts": [
+        "cafe"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arius",
+   "node": [
+    60,
+    34
+   ],
+   "arrival": {
+    "place": "arius/district/station",
+    "at": "arrive"
+   },
+   "home": {
+    "place": "arius/district/hideout",
+    "at": "out"
+   },
+   "districts": [
+    {
+     "id": "arius/district",
+     "places": [
+      {
+       "id": "arius/district/street",
+       "map": "arius/district/street.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "arius/district/station",
+       "map": "arius/district/station.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "arius/district/shop",
+       "map": "arius/district/shop.tmj",
+       "outdoor": false,
+       "hosts": [
+        "shop"
+       ]
+      },
+      {
+       "id": "arius/district/hideout",
+       "map": "arius/district/hideout.tmj",
+       "outdoor": false,
+       "hosts": []
+      }
+     ]
+    },
+    {
+     "id": "arius/academy",
+     "places": [
+      {
+       "id": "arius/academy/school",
+       "map": "arius/academy/school.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "arius/academy/branch",
+       "map": "arius/academy/branch.tmj",
+       "outdoor": false,
+       "hosts": [
+        "school"
+       ]
+      },
+      {
+       "id": "arius/academy/stacks",
+       "map": "arius/academy/stacks.tmj",
+       "outdoor": false,
+       "hosts": [
+        "library"
+       ]
+      },
+      {
+       "id": "arius/academy/yard",
+       "map": "arius/academy/yard.tmj",
+       "outdoor": true,
+       "hosts": [
+        "gym",
+        "outdoor"
+       ]
+      },
+      {
+       "id": "arius/academy/cathedral",
+       "map": "arius/academy/cathedral.tmj",
+       "outdoor": false,
+       "hosts": [],
+       "when": "line_arius_cathedral"
+      }
+     ]
+    },
+    {
+     "id": "arius/under",
+     "places": [
+      {
+       "id": "arius/under/entrance",
+       "map": "arius/under/entrance.tmj",
+       "outdoor": true,
+       "hosts": [
+        "outdoor"
+       ]
+      },
+      {
+       "id": "arius/under/catacombs",
+       "map": "arius/under/catacombs.tmj",
+       "outdoor": false,
+       "hosts": []
+      },
+      {
+       "id": "arius/under/chapel",
+       "map": "arius/under/chapel.tmj",
+       "outdoor": false,
+       "hosts": [
+        "work",
+        "cafe"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

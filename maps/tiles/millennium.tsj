@@ -1,0 +1,7838 @@
+{
+ "name": "millennium",
+ "type": "tileset",
+ "version": "1.10",
+ "tiledversion": "1.10.2",
+ "tilewidth": 32,
+ "tileheight": 32,
+ "columns": 16,
+ "tilecount": 711,
+ "margin": 0,
+ "spacing": 0,
+ "image": "millennium.png",
+ "imagewidth": 512,
+ "imageheight": 1440,
+ "tiles": [
+  {
+   "id": 0,
+   "type": "floor_wood",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "floor_wood2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "floor_tile",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "floor_gym",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "gym_line_h",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "gym_line_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "mat",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "type": "floor_lino",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "type": "doormat",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "type": "asphalt",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "type": "asphalt_crack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "road_dash",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "road_dash_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "road_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "crosswalk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "type": "sidewalk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "concrete",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "platform_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "sand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "sand_ripple",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "sand_debris",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "dirt",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "dirt_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "grass_tuft",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "sand_b0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "sand_b1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "sand_b2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "sand_b3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "sand_b4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "sand_b5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "sand_b6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "sand_b7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "sand_b8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "sand_b9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "sand_b10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "sand_b11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "sand_b12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "sand_b13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "sand_b14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "sand_b15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "iw_top",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "iw_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "iw_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "iwin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "iwin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "idoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "idoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "board_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "board_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "board_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "board_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "type": "board_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "board_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "clock_wall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "clock_wall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "ew_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "ew_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "ewin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "ewin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "edoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "edoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "shutter_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "shutter_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "noren_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "type": "noren_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "roof",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "roof_ac",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "roof_tank",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "roof_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "roof_sand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "fence",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "blockwall",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "rail",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "desk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "tdesk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "tdesk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "shelf_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "shelf_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "locker_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "locker_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "type": "counter",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "counter_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "stool",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "table_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "table_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "bed_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "bed_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "vending_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "vending_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "bench_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "bench_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "cone",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "sandbag",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "tree_dead_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "tree_dead_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "pole_lamp_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "pole_lamp_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "bush",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "rock",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "bin",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "planter",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "bike",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "boxes",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "signpost_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "signpost_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "pebbles",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "weeds",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "leaves",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "puddle",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "gw_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "gw_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "gdoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "gdoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "neon_p_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "neon_p_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "neon_b_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "neon_b_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "neon_y_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "neon_y_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "tree_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "tree_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "hedge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "type": "flowers",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "water",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "type": "quay",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "pcdesk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "sofa_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "sofa_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "arcade_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "arcade_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "fridge_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "fridge_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "rack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "plant",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "target",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "metal",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "metal_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "server_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "server_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "holo_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "holo_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "treadmill_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "treadmill_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "monorail",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "generator_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "generator_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "generator_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "generator_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "pylon_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "pylon_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "kiosk_light",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "millennium_tower_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "millennium_tower_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "millennium_tower_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "millennium_tower_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "type": "millennium_tower_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "millennium_tower_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "millennium_tower_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "millennium_tower_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "millennium_tower_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "millennium_tower_9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "millennium_tower_10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "millennium_tower_11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "millennium_tower_12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "millennium_tower_13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "millennium_tower_14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "millennium_tower_15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "millennium_tower_16",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "millennium_tower_17",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "millennium_tower_18",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "millennium_tower_19",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "millennium_tower_20",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "millennium_tower_21",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "millennium_tower_22",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "millennium_tower_23",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "millennium_tower_24",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "millennium_tower_25",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "millennium_tower_26",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "millennium_tower_27",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "millennium_tower_28",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "type": "millennium_tower_29",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "millennium_tower_30",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "type": "millennium_tower_31",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "millennium_tower_32",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "type": "millennium_tower_33",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "millennium_tower_34",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "millennium_tower_35",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "millennium_tower_36",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "millennium_tower_37",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "millennium_tower_38",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "millennium_tower_39",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "millennium_tower_40",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "type": "millennium_tower_41",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "millennium_tower_42",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "millennium_tower_43",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "type": "millennium_tower_44",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "type": "millennium_tower_45",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "millennium_tower_46",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "millennium_tower_47",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "millennium_tower_48",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "millennium_tower_49",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "millennium_tower_50",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "type": "millennium_tower_51",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "millennium_tower_52",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "type": "millennium_tower_53",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "millennium_tower_54",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "type": "millennium_tower_55",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "millennium_tower_56",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "type": "millennium_tower_57",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "type": "millennium_tower_58",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "type": "millennium_tower_59",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "type": "millennium_tower_60",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "millennium_tower_61",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "type": "millennium_tower_62",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "type": "millennium_tower_63",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "type": "millennium_tower_64",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "millennium_tower_65",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "millennium_tower_66",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "millennium_tower_67",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "type": "millennium_tower_68",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "millennium_tower_69",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "millennium_tower_70",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "millennium_tower_71",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "millennium_tower_72",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "millennium_tower_73",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "millennium_tower_74",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "millennium_tower_75",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "millennium_tower_76",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "millennium_tower_77",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "millennium_tower_78",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "type": "millennium_tower_79",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "millennium_tower_80",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "millennium_tower_81",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "millennium_tower_82",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "millennium_tower_83",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "millennium_tower_84",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "millennium_tower_85",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "millennium_tower_86",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "type": "millennium_tower_87",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "millennium_tower_88",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "type": "millennium_tower_89",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "millennium_tower_90",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "millennium_tower_91",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "millennium_tower_92",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "type": "millennium_tower_93",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "millennium_tower_94",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "type": "millennium_tower_95",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "millennium_tower_96",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "type": "millennium_tower_97",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "type": "millennium_tower_98",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "type": "millennium_tower_99",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "millennium_tower_100",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "type": "millennium_tower_101",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "millennium_tower_102",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "type": "millennium_tower_103",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "millennium_tower_104",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 256,
+   "type": "millennium_tower_105",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "millennium_tower_106",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 258,
+   "type": "millennium_tower_107",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "millennium_tower_108",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "type": "millennium_tower_109",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "millennium_tower_110",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 262,
+   "type": "millennium_tower_111",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "millennium_tower_112",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 264,
+   "type": "millennium_tower_113",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 265,
+   "type": "millennium_tower_114",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 266,
+   "type": "millennium_tower_115",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 267,
+   "type": "millennium_tower_116",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 268,
+   "type": "millennium_tower_117",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 269,
+   "type": "millennium_tower_118",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "type": "millennium_tower_119",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 271,
+   "type": "site",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "type": "hoard",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 273,
+   "type": "hoard_sign",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 274,
+   "type": "hoard_side",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 275,
+   "type": "barricade",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "type": "beams",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 277,
+   "type": "crane_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 278,
+   "type": "crane_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 279,
+   "type": "crane_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 280,
+   "type": "crane_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 281,
+   "type": "crane_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 282,
+   "type": "crane_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 283,
+   "type": "scrap_ground",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 284,
+   "type": "scrap_oil",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 285,
+   "type": "scrap_bits",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 286,
+   "type": "scrap_pile_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 287,
+   "type": "scrap_pile_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 288,
+   "type": "scrap_pile_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "type": "scrap_pile_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 290,
+   "type": "scrap_cube",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 291,
+   "type": "yard_slab",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "type": "yard_slab_crack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 293,
+   "type": "scrap_small",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 294,
+   "type": "robot_wreck_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "type": "robot_wreck_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "type": "robot_husk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "type": "robot_husk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "type": "oil_drum",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "type": "tire_stack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "type": "car_wreck_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "type": "car_wreck_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "type": "yard_crane_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "type": "yard_crane_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "type": "yard_crane_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "type": "yard_crane_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "yard_crane_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "type": "yard_crane_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "type": "ws_tin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "type": "ws_tin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "pegboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "type": "pegboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "type": "workbench_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "type": "workbench_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "type": "tool_cart",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "type": "wheel_rack_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "type": "wheel_rack_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "type": "racer_chassis_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "type": "racer_chassis_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "type": "track",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "type": "monitor_desk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "type": "monitor_desk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "type": "circuit_board",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "type": "cables",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "type": "armor_plates",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "type": "welder",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "type": "armor_frame_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "type": "armor_frame_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "type": "robot_pal_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "type": "robot_pal_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "type": "arena_sign_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "type": "arena_sign_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "type": "arena_sign_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "type": "arena_sign_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "type": "robo_flag_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "type": "robo_flag_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "type": "arena_floor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "type": "ring_floor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "type": "ring_mark_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "type": "ring_mark_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "type": "ring_rope_h",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "type": "ring_rope_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "type": "ring_post",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "type": "stands",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "type": "stands_rail",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "type": "scoreboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "type": "scoreboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "type": "scoreboard_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "type": "scoreboard_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "type": "scoreboard_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "type": "scoreboard_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "type": "scoreboard_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "scoreboard_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "type": "trophy_case_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "type": "trophy_case_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "type": "plaza_tile",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "type": "plaza_glow",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "type": "plaza_glow_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "type": "mono_beam",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "type": "mono_pier_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "type": "mono_pier_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "type": "mono_train_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "type": "mono_train_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "type": "mono_train_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "type": "pool_rim",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 365,
+   "type": "drone_pad_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 366,
+   "type": "drone_pad_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 367,
+   "type": "drone_pad_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "type": "drone_pad_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 369,
+   "type": "bot_sweep",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 370,
+   "type": "charger",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 371,
+   "type": "holo_sign_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 372,
+   "type": "holo_sign_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 373,
+   "type": "solar_panel",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 374,
+   "type": "battery_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 375,
+   "type": "battery_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 376,
+   "type": "hazard",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 377,
+   "type": "crusher_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "type": "crusher_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "type": "crusher_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 380,
+   "type": "crusher_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 381,
+   "type": "crusher_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 382,
+   "type": "crusher_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 383,
+   "type": "bridge_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 384,
+   "type": "bridge_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 385,
+   "type": "canal_n",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 386,
+   "type": "mi_wall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 387,
+   "type": "mi_wall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 388,
+   "type": "mi_win_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 389,
+   "type": "mi_win_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 390,
+   "type": "mi_screen_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 391,
+   "type": "mi_screen_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 392,
+   "type": "mi_screen_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 393,
+   "type": "mi_screen_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 394,
+   "type": "mi_wb_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 395,
+   "type": "mi_wb_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 396,
+   "type": "mi_wb_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 397,
+   "type": "mi_wb_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 398,
+   "type": "mi_wb_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 399,
+   "type": "mi_wb_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 400,
+   "type": "mi_poster_game_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 401,
+   "type": "mi_poster_game_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 402,
+   "type": "mi_poster_sci_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 403,
+   "type": "mi_poster_sci_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 404,
+   "type": "mi_clock_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "type": "mi_clock_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 406,
+   "type": "mi_shelf_w_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 407,
+   "type": "mi_shelf_w_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 408,
+   "type": "mi_logo_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 409,
+   "type": "mi_logo_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 410,
+   "type": "mi_logo_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 411,
+   "type": "mi_logo_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 412,
+   "type": "mi_door_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 413,
+   "type": "mi_door_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 414,
+   "type": "mi_menu_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 415,
+   "type": "mi_menu_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 416,
+   "type": "mi_menu_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 417,
+   "type": "mi_menu_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 418,
+   "type": "mi_mirror_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 419,
+   "type": "mi_mirror_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 420,
+   "type": "mi_ac_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 421,
+   "type": "mi_ac_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 422,
+   "type": "mi_departures_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 423,
+   "type": "mi_departures_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 424,
+   "type": "mi_departures_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 425,
+   "type": "mi_departures_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 426,
+   "type": "mi_ad_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 427,
+   "type": "mi_ad_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 428,
+   "type": "mi_warn_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 429,
+   "type": "mi_warn_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 430,
+   "type": "mi_curtain_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 431,
+   "type": "mi_curtain_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 432,
+   "type": "mi_pinboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 433,
+   "type": "mi_pinboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 434,
+   "type": "mi_banner_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 435,
+   "type": "mi_banner_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 436,
+   "type": "mi_floor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 437,
+   "type": "mi_carpet",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 438,
+   "type": "mi_raised",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 439,
+   "type": "mi_vent",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 440,
+   "type": "mi_rubber",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 441,
+   "type": "mi_wood",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 442,
+   "type": "mi_check",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 443,
+   "type": "mi_rug_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 444,
+   "type": "mi_rug_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 445,
+   "type": "mi_rug_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 446,
+   "type": "mi_rug_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 447,
+   "type": "mi_rug_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 448,
+   "type": "mi_rug_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 449,
+   "type": "mi_rug_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 450,
+   "type": "mi_rug_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 451,
+   "type": "mi_rug_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 452,
+   "type": "mi_rug_warm_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 453,
+   "type": "mi_rug_warm_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 454,
+   "type": "mi_rug_warm_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 455,
+   "type": "mi_rug_warm_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 456,
+   "type": "mi_rug_warm_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 457,
+   "type": "mi_rug_warm_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 458,
+   "type": "mi_rug_warm_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 459,
+   "type": "mi_rug_warm_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 460,
+   "type": "mi_rug_warm_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 461,
+   "type": "mi_rug_mat_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 462,
+   "type": "mi_rug_mat_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 463,
+   "type": "mi_rug_mat_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 464,
+   "type": "mi_rug_mat_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 465,
+   "type": "mi_rug_mat_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 466,
+   "type": "mi_rug_mat_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 467,
+   "type": "mi_rug_mat_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 468,
+   "type": "mi_rug_mat_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 469,
+   "type": "mi_rug_mat_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 470,
+   "type": "mi_reception_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 471,
+   "type": "mi_reception_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 472,
+   "type": "mi_reception_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 473,
+   "type": "mi_armchair",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 474,
+   "type": "mi_ctable",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 475,
+   "type": "mi_tree_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 476,
+   "type": "mi_tree_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 477,
+   "type": "mi_kiosk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 478,
+   "type": "mi_labbench_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 479,
+   "type": "mi_labbench_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 480,
+   "type": "mi_hood_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 481,
+   "type": "mi_hood_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 482,
+   "type": "mi_printer",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 483,
+   "type": "mi_robotarm",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 484,
+   "type": "mi_dualpc",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 485,
+   "type": "mi_crac_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 486,
+   "type": "mi_crac_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 487,
+   "type": "mi_noc_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 488,
+   "type": "mi_noc_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 489,
+   "type": "mi_ups",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 490,
+   "type": "mi_ladder",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 491,
+   "type": "mi_libtable_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 492,
+   "type": "mi_libtable_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 493,
+   "type": "mi_bookcart",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 494,
+   "type": "mi_beanbag",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 495,
+   "type": "mi_ticket_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 496,
+   "type": "mi_ticket_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 497,
+   "type": "mi_pillar_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 498,
+   "type": "mi_pillar_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 499,
+   "type": "mi_counter",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 500,
+   "type": "mi_register",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 501,
+   "type": "mi_coffee",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 502,
+   "type": "mi_cake",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 503,
+   "type": "mi_warmer",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 504,
+   "type": "mi_freezer_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 505,
+   "type": "mi_freezer_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 506,
+   "type": "mi_magrack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 507,
+   "type": "mi_atm_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 508,
+   "type": "mi_atm_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 509,
+   "type": "mi_press_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 510,
+   "type": "mi_press_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 511,
+   "type": "mi_dumbbells_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 512,
+   "type": "mi_dumbbells_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 513,
+   "type": "mi_exbike",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 514,
+   "type": "mi_punchbag_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 515,
+   "type": "mi_punchbag_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 516,
+   "type": "mi_water",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 517,
+   "type": "mi_cafetable",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 518,
+   "type": "mi_booth_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 519,
+   "type": "mi_booth_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 520,
+   "type": "mi_gamedesk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 521,
+   "type": "mi_gamedesk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 522,
+   "type": "mi_wardrobe_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 523,
+   "type": "mi_wardrobe_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 524,
+   "type": "mi_minifridge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 525,
+   "type": "mi_lamp_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 526,
+   "type": "mi_lamp_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 527,
+   "type": "mb_roof_tl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 528,
+   "type": "mb_roof_t",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 529,
+   "type": "mb_roof_tr",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 530,
+   "type": "mb_roof_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 531,
+   "type": "mb_roof_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 532,
+   "type": "mb_roof_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 533,
+   "type": "mb_roof_bl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 534,
+   "type": "mb_roof_b",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 535,
+   "type": "mb_roof_br",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 536,
+   "type": "mb_gl_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 537,
+   "type": "mb_pn_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 538,
+   "type": "mb_fin_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 539,
+   "type": "mb_gl_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 540,
+   "type": "mb_pn_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 541,
+   "type": "mb_fin_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 542,
+   "type": "mb_gl_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 543,
+   "type": "mb_pn_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 544,
+   "type": "mb_fin_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 545,
+   "type": "mb_front_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 546,
+   "type": "mb_front_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 547,
+   "type": "mb_door_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 548,
+   "type": "mb_door_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 549,
+   "type": "mb_svc_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 550,
+   "type": "mb_svc_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 551,
+   "type": "mb_pillar_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 552,
+   "type": "mb_pillar_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 553,
+   "type": "mb_dish",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 554,
+   "type": "mb_vent",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 555,
+   "type": "mb_cooling_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 556,
+   "type": "mb_cooling_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 557,
+   "type": "mb_solar_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 558,
+   "type": "mb_solar_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 559,
+   "type": "mb_heli_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 560,
+   "type": "mb_heli_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 561,
+   "type": "mb_heli_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 562,
+   "type": "mb_heli_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 563,
+   "type": "mb_mast_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 564,
+   "type": "mb_mast_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 565,
+   "type": "mb_bridge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 566,
+   "type": "mb_plaza_ring_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 567,
+   "type": "mb_plaza_ring_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 568,
+   "type": "mb_plaza_ring_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 569,
+   "type": "mb_plaza_ring_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 570,
+   "type": "mb_holo_globe_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 571,
+   "type": "mb_holo_globe_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 572,
+   "type": "mb_holo_globe_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 573,
+   "type": "mb_holo_globe_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 574,
+   "type": "mb_infopost_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 575,
+   "type": "mb_infopost_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 576,
+   "type": "mb_gate",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 577,
+   "type": "mb_psd",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 578,
+   "type": "mb_holoboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 579,
+   "type": "mb_holoboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 580,
+   "type": "mb_holoboard_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 581,
+   "type": "mb_holoboard_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 582,
+   "type": "ms_sky_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 583,
+   "type": "ms_beam_v_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 584,
+   "type": "ms_beam_v_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 585,
+   "type": "ms_train_v_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 586,
+   "type": "ms_train_v_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 587,
+   "type": "ms_train_v_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 588,
+   "type": "ms_train_v_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 589,
+   "type": "ms_train_v_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 590,
+   "type": "ms_train_v_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 591,
+   "type": "ms_train_v_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 592,
+   "type": "ms_train_v_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 593,
+   "type": "ms_train_v_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 594,
+   "type": "ms_train_v_9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 595,
+   "type": "ms_train_v_10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 596,
+   "type": "ms_train_v_11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 597,
+   "type": "ms_train_v_12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 598,
+   "type": "ms_train_v_13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 599,
+   "type": "ms_psd_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 600,
+   "type": "ms_glass_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 601,
+   "type": "ms_psd_open",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 602,
+   "type": "ms_edge_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 603,
+   "type": "ms_gate_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 604,
+   "type": "ms_ring_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 605,
+   "type": "ms_ring_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 606,
+   "type": "ms_ring_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 607,
+   "type": "ms_ring_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 608,
+   "type": "ms_ring_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 609,
+   "type": "ms_ring_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 610,
+   "type": "ms_ring_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 611,
+   "type": "ms_ring_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 612,
+   "type": "ms_ring_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 613,
+   "type": "ms_ring_9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 614,
+   "type": "ms_ring_10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 615,
+   "type": "ms_ring_11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 616,
+   "type": "ms_ring_12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 617,
+   "type": "ms_ring_13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 618,
+   "type": "ms_ring_14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 619,
+   "type": "ms_ring_15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 620,
+   "type": "ms_escalator_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 621,
+   "type": "ms_escalator_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 622,
+   "type": "ms_platsign",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 623,
+   "type": "ms_floor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 624,
+   "type": "ms_floor_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 625,
+   "type": "ms_floor_lv",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 626,
+   "type": "ms_lockers_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 627,
+   "type": "ms_lockers_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 628,
+   "type": "ms_vend_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 629,
+   "type": "ms_vend_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 630,
+   "type": "ms_grid",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 631,
+   "type": "ms_grid_bot",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 632,
+   "type": "ms_grid_front",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 633,
+   "type": "ms_port",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 634,
+   "type": "ms_conveyor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 635,
+   "type": "ms_selfcheck_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 636,
+   "type": "ms_selfcheck_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 637,
+   "type": "awning_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 638,
+   "type": "awning_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 639,
+   "type": "shopwin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 640,
+   "type": "shopwin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 641,
+   "type": "sign_food_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 642,
+   "type": "sign_food_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 643,
+   "type": "sign_shop_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 644,
+   "type": "sign_shop_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 645,
+   "type": "sign_cafe_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 646,
+   "type": "sign_cafe_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 647,
+   "type": "sign_rent_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 648,
+   "type": "sign_rent_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 649,
+   "type": "shade_e",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 650,
+   "type": "shade_s",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 651,
+   "type": "pole_wire_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 652,
+   "type": "pole_wire_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 653,
+   "type": "bus_stop_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 654,
+   "type": "bus_stop_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 655,
+   "type": "bus_stop_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 656,
+   "type": "bus_stop_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 657,
+   "type": "roof_back",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 658,
+   "type": "roof_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 659,
+   "type": "roof_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 660,
+   "type": "roof_back_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 661,
+   "type": "roof_back_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 662,
+   "type": "roof_edge_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 663,
+   "type": "roof_edge_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 664,
+   "type": "roof_solar",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 665,
+   "type": "roof_vent",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 666,
+   "type": "roof_hut_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 667,
+   "type": "roof_hut_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 668,
+   "type": "roof_hut_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 669,
+   "type": "roof_hut_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 670,
+   "type": "car_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 671,
+   "type": "car_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 672,
+   "type": "car_sand_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 673,
+   "type": "car_sand_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 674,
+   "type": "water_tower_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 675,
+   "type": "water_tower_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 676,
+   "type": "water_tower_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 677,
+   "type": "water_tower_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 678,
+   "type": "water_tower_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 679,
+   "type": "water_tower_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 680,
+   "type": "sand_b0c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 681,
+   "type": "sand_b0c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 682,
+   "type": "sand_b0c3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 683,
+   "type": "sand_b0c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 684,
+   "type": "sand_b0c5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 685,
+   "type": "sand_b0c6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 686,
+   "type": "sand_b0c7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 687,
+   "type": "sand_b0c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 688,
+   "type": "sand_b0c9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 689,
+   "type": "sand_b0c10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 690,
+   "type": "sand_b0c11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 691,
+   "type": "sand_b0c12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 692,
+   "type": "sand_b0c13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 693,
+   "type": "sand_b0c14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 694,
+   "type": "sand_b0c15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 695,
+   "type": "sand_b1c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 696,
+   "type": "sand_b1c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 697,
+   "type": "sand_b1c6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 698,
+   "type": "sand_b2c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 699,
+   "type": "sand_b2c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 700,
+   "type": "sand_b2c12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 701,
+   "type": "sand_b3c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 702,
+   "type": "sand_b4c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 703,
+   "type": "sand_b4c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 704,
+   "type": "sand_b4c9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 705,
+   "type": "sand_b6c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 706,
+   "type": "sand_b8c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 707,
+   "type": "sand_b8c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 708,
+   "type": "sand_b8c3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 709,
+   "type": "sand_b9c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 710,
+   "type": "sand_b12c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  }
+ ]
+}

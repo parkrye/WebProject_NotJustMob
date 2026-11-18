@@ -1,0 +1,7156 @@
+{
+ "name": "valkyrie",
+ "type": "tileset",
+ "version": "1.10",
+ "tiledversion": "1.10.2",
+ "tilewidth": 32,
+ "tileheight": 32,
+ "columns": 16,
+ "tilecount": 649,
+ "margin": 0,
+ "spacing": 0,
+ "image": "valkyrie.png",
+ "imagewidth": 512,
+ "imageheight": 1312,
+ "tiles": [
+  {
+   "id": 0,
+   "type": "floor_wood",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "type": "floor_wood2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "floor_tile",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "floor_gym",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "gym_line_h",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "gym_line_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "mat",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "type": "floor_lino",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "type": "doormat",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "type": "asphalt",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "type": "asphalt_crack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "road_dash",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "road_dash_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "road_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "crosswalk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "type": "sidewalk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "concrete",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "platform_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "sand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "sand_ripple",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "sand_debris",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "dirt",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "dirt_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "grass_tuft",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "sand_b0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "sand_b1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "sand_b2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "sand_b3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "sand_b4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "sand_b5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "sand_b6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "sand_b7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "sand_b8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "sand_b9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "sand_b10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "sand_b11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "sand_b12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "sand_b13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "sand_b14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "sand_b15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "iw_top",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "iw_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "iw_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "iwin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "iwin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "idoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "idoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "board_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "board_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "board_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "board_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "type": "board_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "board_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "clock_wall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "clock_wall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "ew_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "ew_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "ewin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "ewin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "edoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "edoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "shutter_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "shutter_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "noren_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "type": "noren_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "roof",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "roof_ac",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "roof_tank",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "roof_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "roof_sand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "fence",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "blockwall",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "rail",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "desk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "tdesk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "tdesk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "shelf_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "shelf_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "locker_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "locker_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "type": "counter",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "counter_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "stool",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "table_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "table_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "bed_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "bed_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "vending_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "vending_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "bench_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "bench_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "cone",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "sandbag",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "tree_dead_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "tree_dead_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "pole_lamp_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "pole_lamp_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "bush",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "rock",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "bin",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "planter",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "bike",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "boxes",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "signpost_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "signpost_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "pebbles",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "weeds",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "leaves",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "puddle",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "gw_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "gw_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "gdoor_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "gdoor_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "neon_p_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "neon_p_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "neon_b_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "neon_b_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "neon_y_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "neon_y_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "tree_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "tree_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "hedge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "type": "flowers",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "water",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "type": "quay",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "pcdesk",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "sofa_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "sofa_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "arcade_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "arcade_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "fridge_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "fridge_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "rack",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "plant",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "target",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "valkyrie_hq_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "valkyrie_hq_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "valkyrie_hq_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "valkyrie_hq_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "valkyrie_hq_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "valkyrie_hq_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "valkyrie_hq_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "valkyrie_hq_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "valkyrie_hq_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "valkyrie_hq_9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "valkyrie_hq_10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "valkyrie_hq_11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "valkyrie_hq_12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "valkyrie_hq_13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "valkyrie_hq_14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "valkyrie_hq_15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "valkyrie_hq_16",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "valkyrie_hq_17",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "valkyrie_hq_18",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "valkyrie_hq_19",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "type": "valkyrie_hq_20",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "valkyrie_hq_21",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "valkyrie_hq_22",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "valkyrie_hq_23",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "valkyrie_hq_24",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "valkyrie_hq_25",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "valkyrie_hq_26",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "valkyrie_hq_27",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "valkyrie_hq_28",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "valkyrie_hq_29",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "valkyrie_hq_30",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "valkyrie_hq_31",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "valkyrie_hq_32",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "valkyrie_hq_33",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "valkyrie_hq_34",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "valkyrie_hq_35",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "valkyrie_hq_36",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "valkyrie_hq_37",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "valkyrie_hq_38",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "valkyrie_hq_39",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "valkyrie_hq_40",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "valkyrie_hq_41",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "valkyrie_hq_42",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "valkyrie_hq_43",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "valkyrie_hq_44",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "type": "valkyrie_hq_45",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "valkyrie_hq_46",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "type": "valkyrie_hq_47",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "valkyrie_hq_48",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "type": "valkyrie_hq_49",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "valkyrie_hq_50",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "valkyrie_hq_51",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "valkyrie_hq_52",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "valkyrie_hq_53",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "valkyrie_hq_54",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "valkyrie_hq_55",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "valkyrie_hq_56",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "type": "valkyrie_hq_57",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "valkyrie_hq_58",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "valkyrie_hq_59",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "type": "valkyrie_hq_60",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "type": "valkyrie_hq_61",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "valkyrie_hq_62",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "valkyrie_hq_63",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "valkyrie_hq_64",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "valkyrie_hq_65",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "valkyrie_hq_66",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "type": "valkyrie_hq_67",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "valkyrie_hq_68",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "type": "valkyrie_hq_69",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "cine_face_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "type": "cine_face_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "poster_faded_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "type": "poster_faded_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "type": "poster_action_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "type": "poster_action_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "type": "poster_romance_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "poster_romance_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "type": "poster_horror_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "type": "poster_horror_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "type": "cine_door_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "cine_door_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "cine_boarded_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "cine_boarded_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "type": "cine_open_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "cine_open_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "cine_ticket_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "cine_ticket_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "cine_sign_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "cine_sign_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "cine_sign_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "cine_sign_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "cine_sign_lit_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "cine_sign_lit_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "cine_sign_lit_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "type": "cine_sign_lit_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "red_carpet",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "cine_rope",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "cine_carpet",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "cine_aisle",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "cine_seat",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "cine_wall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "cine_wall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "type": "cine_screen_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "cine_screen_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "type": "cine_screen_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "cine_screen_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "cine_screen_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "cine_screen_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "type": "cine_screen_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "cine_screen_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "type": "cine_screen_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "cine_screen_9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "type": "cine_screen_10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "type": "cine_screen_11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "type": "cine_screen_12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "cine_screen_13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "type": "cine_screen_14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "cine_screen_15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "type": "cine_curtain_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "cine_curtain_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 256,
+   "type": "proj_booth_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "proj_booth_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 258,
+   "type": "proj_booth_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "proj_booth_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "type": "proj_booth_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "proj_booth_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 262,
+   "type": "popcorn",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "flagpole_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 264,
+   "type": "flagpole_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 265,
+   "type": "police_box_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 266,
+   "type": "police_box_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 267,
+   "type": "police_box_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 268,
+   "type": "police_box_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 269,
+   "type": "boom_gate_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "type": "boom_gate_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 271,
+   "type": "boom_gate_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "type": "signal_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 273,
+   "type": "signal_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 274,
+   "type": "park_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 275,
+   "type": "crosswalk_h",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "type": "drill_mark",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 277,
+   "type": "stand_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 278,
+   "type": "stand_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 279,
+   "type": "stand_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 280,
+   "type": "stand_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 281,
+   "type": "stand_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 282,
+   "type": "stand_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 283,
+   "type": "stand_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 284,
+   "type": "stand_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 285,
+   "type": "patrol_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 286,
+   "type": "patrol_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 287,
+   "type": "police_barrier",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 288,
+   "type": "bike_rack_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "type": "bike_rack_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 290,
+   "type": "rug_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 291,
+   "type": "rug_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "type": "rug_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 293,
+   "type": "rug_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 294,
+   "type": "rug_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "type": "rug_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "type": "rug_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "type": "rug_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "type": "rug_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "type": "rug2_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "type": "rug2_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "type": "rug2_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "type": "rug2_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "type": "rug2_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "type": "rug2_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "type": "rug2_6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "rug2_7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "type": "rug2_8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "type": "floor_parquet",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "type": "floor_marble",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "floor_carpet",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "type": "floor_check",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "type": "lane",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "type": "fire_line",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "type": "gym_x",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "type": "gym_nw",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "type": "gym_ne",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "type": "gym_sw",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "type": "gym_se",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "type": "gym_tn",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "type": "gym_ts",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "type": "gym_tw",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "type": "gym_te",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "type": "stage",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "type": "stage_edge",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "type": "w_notice_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "type": "w_notice_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "type": "w_poster_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "type": "w_poster_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "type": "w_shelf_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "type": "w_shelf_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "type": "w_curtain_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "type": "w_curtain_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "type": "w_drape_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "type": "w_drape_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "type": "w_picture_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "type": "w_picture_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "type": "w_emblem_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "type": "w_emblem_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "type": "w_hoop_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "type": "w_hoop_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "type": "w_sconce_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "type": "w_sconce_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "type": "w_cupboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "type": "w_cupboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "type": "w_panel_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "type": "w_panel_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "type": "w_warn_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "type": "w_warn_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "type": "w_exit_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "type": "w_exit_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "type": "w_stained_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "w_stained_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "type": "w_menu_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "type": "w_menu_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "type": "w_menu_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "type": "w_menu_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "type": "w_map_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "type": "w_map_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "type": "w_map_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "type": "w_map_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "type": "w_tv_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "type": "w_tv_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "type": "w_tv_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "type": "w_tv_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 365,
+   "type": "w_whiteboard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 366,
+   "type": "w_whiteboard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 367,
+   "type": "w_whiteboard_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "type": "w_whiteboard_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 369,
+   "type": "w_timetable_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 370,
+   "type": "w_timetable_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 371,
+   "type": "w_timetable_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 372,
+   "type": "w_timetable_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 373,
+   "type": "w_rose_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 374,
+   "type": "w_rose_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 375,
+   "type": "w_rose_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 376,
+   "type": "w_rose_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 377,
+   "type": "w_painting_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "type": "w_painting_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "type": "w_painting_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 380,
+   "type": "w_painting_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 381,
+   "type": "w_score_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 382,
+   "type": "w_score_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 383,
+   "type": "w_score_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 384,
+   "type": "w_score_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 385,
+   "type": "w_screen_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 386,
+   "type": "w_screen_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 387,
+   "type": "w_screen_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 388,
+   "type": "w_screen_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 389,
+   "type": "w_screen_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 390,
+   "type": "w_screen_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 391,
+   "type": "tent_wall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 392,
+   "type": "tent_wall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 393,
+   "type": "armchair",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 394,
+   "type": "settee_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 395,
+   "type": "settee_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 396,
+   "type": "chair",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 397,
+   "type": "teatable",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 398,
+   "type": "teatable2_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 399,
+   "type": "teatable2_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 400,
+   "type": "readtable_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 401,
+   "type": "readtable_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 402,
+   "type": "piano_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 403,
+   "type": "piano_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 404,
+   "type": "piano_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "type": "piano_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 406,
+   "type": "musicstand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 407,
+   "type": "candle_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 408,
+   "type": "candle_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 409,
+   "type": "altar_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 410,
+   "type": "altar_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 411,
+   "type": "lectern",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 412,
+   "type": "case",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 413,
+   "type": "vase",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 414,
+   "type": "cakecase",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 415,
+   "type": "coffee",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 416,
+   "type": "register",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 417,
+   "type": "stove",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 418,
+   "type": "sink",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 419,
+   "type": "filing_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 420,
+   "type": "filing_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 421,
+   "type": "archive_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 422,
+   "type": "archive_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 423,
+   "type": "trophy_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 424,
+   "type": "trophy_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 425,
+   "type": "cooler_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 426,
+   "type": "cooler_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 427,
+   "type": "copier",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 428,
+   "type": "bed2_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 429,
+   "type": "bed2_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 430,
+   "type": "bunk_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 431,
+   "type": "bunk_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 432,
+   "type": "footlocker",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 433,
+   "type": "ticketgate",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 434,
+   "type": "ticketmach_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 435,
+   "type": "ticketmach_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 436,
+   "type": "pillar_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 437,
+   "type": "pillar_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 438,
+   "type": "wardrobe_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 439,
+   "type": "wardrobe_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 440,
+   "type": "nightstand",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 441,
+   "type": "floorlamp_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 442,
+   "type": "floorlamp_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 443,
+   "type": "palm_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 444,
+   "type": "palm_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 445,
+   "type": "ballcart",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 446,
+   "type": "vault_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 447,
+   "type": "vault_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 448,
+   "type": "gear",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 449,
+   "type": "globe",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 450,
+   "type": "bookcart",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 451,
+   "type": "camptable",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 452,
+   "type": "radio",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 453,
+   "type": "stanchion",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 454,
+   "type": "cine_sconce_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 455,
+   "type": "cine_sconce_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 456,
+   "type": "cine_exit_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 457,
+   "type": "cine_exit_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 458,
+   "type": "speaker_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 459,
+   "type": "speaker_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 460,
+   "type": "vb_roof_tl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 461,
+   "type": "vb_roof_t",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 462,
+   "type": "vb_roof_tr",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 463,
+   "type": "vb_roof_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 464,
+   "type": "vb_roof_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 465,
+   "type": "vb_roof_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 466,
+   "type": "vb_roof_bl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 467,
+   "type": "vb_roof_b",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 468,
+   "type": "vb_roof_br",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 469,
+   "type": "vb_dormer",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 470,
+   "type": "vb_upper_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 471,
+   "type": "vb_upper_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 472,
+   "type": "vb_upper_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 473,
+   "type": "vb_win_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 474,
+   "type": "vb_win_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 475,
+   "type": "vb_pil_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 476,
+   "type": "vb_pil_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 477,
+   "type": "vb_door_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 478,
+   "type": "vb_door_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 479,
+   "type": "vb_crest_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 480,
+   "type": "vb_crest_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 481,
+   "type": "vb_g_tl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 482,
+   "type": "vb_g_t",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 483,
+   "type": "vb_g_tr",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 484,
+   "type": "vb_g_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 485,
+   "type": "vb_g_c",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 486,
+   "type": "vb_g_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 487,
+   "type": "vb_g_bl",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 488,
+   "type": "vb_g_b",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 489,
+   "type": "vb_g_br",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 490,
+   "type": "vb_gwall_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 491,
+   "type": "vb_gwall_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 492,
+   "type": "vb_roll_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 493,
+   "type": "vb_roll_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 494,
+   "type": "vb_roll_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 495,
+   "type": "vb_roll_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 496,
+   "type": "vb_siren_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 497,
+   "type": "vb_siren_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 498,
+   "type": "vb_mast_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 499,
+   "type": "vb_mast_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 500,
+   "type": "vb_mast_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 501,
+   "type": "vb_booth_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 502,
+   "type": "vb_booth_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 503,
+   "type": "vb_booth_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 504,
+   "type": "vb_booth_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 505,
+   "type": "vb_hazard",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 506,
+   "type": "vb_bollard",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 507,
+   "type": "vb_paving",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 508,
+   "type": "vb_paving_n",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 509,
+   "type": "vb_inlay_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 510,
+   "type": "vb_inlay_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 511,
+   "type": "vb_inlay_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 512,
+   "type": "vb_inlay_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 513,
+   "type": "vb_track",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 514,
+   "type": "vb_track_s",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 515,
+   "type": "vb_hurdle",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 516,
+   "type": "vb_vault_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 517,
+   "type": "vb_vault_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 518,
+   "type": "vb_tires",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 519,
+   "type": "vb_rope_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 520,
+   "type": "vb_rope_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 521,
+   "type": "vb_rope_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 522,
+   "type": "vb_rope_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 523,
+   "type": "vb_target",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 524,
+   "type": "vb_berm",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 525,
+   "type": "vb_fireline",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 526,
+   "type": "vb_scanner_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 527,
+   "type": "vb_scanner_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 528,
+   "type": "vb_xray_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 529,
+   "type": "vb_xray_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 530,
+   "type": "vb_board_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 531,
+   "type": "vb_board_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 532,
+   "type": "vb_board_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 533,
+   "type": "vb_board_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 534,
+   "type": "vs_floor",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 535,
+   "type": "vs_floor_n",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 536,
+   "type": "vs_barrier_h",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 537,
+   "type": "vs_belt",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 538,
+   "type": "vs_trays",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 539,
+   "type": "vs_guard_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 540,
+   "type": "vs_guard_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 541,
+   "type": "vs_guard_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 542,
+   "type": "vs_guard_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 543,
+   "type": "vs_cctv_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 544,
+   "type": "vs_cctv_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 545,
+   "type": "vs_cctv_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 546,
+   "type": "vs_cctv_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 547,
+   "type": "vs_wanted_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 548,
+   "type": "vs_wanted_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 549,
+   "type": "vs_rail_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 550,
+   "type": "vs_buffer",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 551,
+   "type": "vs_tunnel_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 552,
+   "type": "vs_tunnel_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 553,
+   "type": "vs_edge_v",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 554,
+   "type": "vs_studs",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 555,
+   "type": "vs_hatch_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 556,
+   "type": "vs_hatch_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 557,
+   "type": "vs_hatch_trays_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 558,
+   "type": "vs_hatch_trays_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 559,
+   "type": "vs_hatch_bell_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 560,
+   "type": "vs_hatch_bell_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 561,
+   "type": "vs_hatch_caps_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 562,
+   "type": "vs_hatch_caps_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 563,
+   "type": "vs_hatch_bowl_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 564,
+   "type": "vs_hatch_bowl_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 565,
+   "type": "vs_hatch_shut_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 566,
+   "type": "vs_hatch_shut_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 567,
+   "type": "vs_steam",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 568,
+   "type": "vs_mealticket_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 569,
+   "type": "vs_mealticket_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 570,
+   "type": "vs_uniforms_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 571,
+   "type": "vs_uniforms_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 572,
+   "type": "vs_supply_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 573,
+   "type": "vs_supply_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 574,
+   "type": "vs_standtable",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 575,
+   "type": "awning_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 576,
+   "type": "awning_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 577,
+   "type": "shopwin_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 578,
+   "type": "shopwin_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 579,
+   "type": "sign_food_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 580,
+   "type": "sign_food_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 581,
+   "type": "sign_shop_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 582,
+   "type": "sign_shop_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 583,
+   "type": "sign_cafe_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 584,
+   "type": "sign_cafe_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 585,
+   "type": "sign_rent_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 586,
+   "type": "sign_rent_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 587,
+   "type": "shade_e",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 588,
+   "type": "shade_s",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 589,
+   "type": "pole_wire_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 590,
+   "type": "pole_wire_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 591,
+   "type": "bus_stop_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 592,
+   "type": "bus_stop_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 593,
+   "type": "bus_stop_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 594,
+   "type": "bus_stop_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 595,
+   "type": "roof_back",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 596,
+   "type": "roof_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 597,
+   "type": "roof_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 598,
+   "type": "roof_back_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 599,
+   "type": "roof_back_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 600,
+   "type": "roof_edge_l",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 601,
+   "type": "roof_edge_r",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 602,
+   "type": "roof_solar",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 603,
+   "type": "roof_vent",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 604,
+   "type": "roof_hut_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 605,
+   "type": "roof_hut_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 606,
+   "type": "roof_hut_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 607,
+   "type": "roof_hut_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 608,
+   "type": "car_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 609,
+   "type": "car_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 610,
+   "type": "car_sand_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 611,
+   "type": "car_sand_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 612,
+   "type": "water_tower_0",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 613,
+   "type": "water_tower_1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 614,
+   "type": "water_tower_2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 615,
+   "type": "water_tower_3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 616,
+   "type": "water_tower_4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 617,
+   "type": "water_tower_5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": true
+    }
+   ]
+  },
+  {
+   "id": 618,
+   "type": "sand_b0c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 619,
+   "type": "sand_b0c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 620,
+   "type": "sand_b0c3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 621,
+   "type": "sand_b0c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 622,
+   "type": "sand_b0c5",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 623,
+   "type": "sand_b0c6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 624,
+   "type": "sand_b0c7",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 625,
+   "type": "sand_b0c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 626,
+   "type": "sand_b0c9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 627,
+   "type": "sand_b0c10",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 628,
+   "type": "sand_b0c11",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 629,
+   "type": "sand_b0c12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 630,
+   "type": "sand_b0c13",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 631,
+   "type": "sand_b0c14",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 632,
+   "type": "sand_b0c15",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 633,
+   "type": "sand_b1c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 634,
+   "type": "sand_b1c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 635,
+   "type": "sand_b1c6",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 636,
+   "type": "sand_b2c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 637,
+   "type": "sand_b2c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 638,
+   "type": "sand_b2c12",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 639,
+   "type": "sand_b3c4",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 640,
+   "type": "sand_b4c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 641,
+   "type": "sand_b4c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 642,
+   "type": "sand_b4c9",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 643,
+   "type": "sand_b6c8",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 644,
+   "type": "sand_b8c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 645,
+   "type": "sand_b8c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 646,
+   "type": "sand_b8c3",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 647,
+   "type": "sand_b9c2",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  },
+  {
+   "id": 648,
+   "type": "sand_b12c1",
+   "properties": [
+    {
+     "name": "solid",
+     "type": "bool",
+     "value": false
+    }
+   ]
+  }
+ ]
+}
